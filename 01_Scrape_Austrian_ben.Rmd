@@ -1,0 +1,91 @@
+---
+title: "Austrian Proposals and Bills"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Packages
+
+```{r}
+pacman::p_load(tidyverse, furrr, rvest, ggthemes, lubridate, rio, haven)
+
+source("utils.R")
+
+```
+
+# Getting Index pages for XX - XXV legislative period
+
+```{r}
+# Index page for lp XX - XXV
+index_urls("XX")
+
+# Scraping Metadata of indexpages and page URLs
+# scrape_indexpage(index_urls("XXV")
+# scrape_indexpage(index_urls("XXIV")
+# scrape_indexpage(index_urls("XXIII")
+# scrape_indexpage(index_urls("XXII")
+# scrape_indexpage(index_urls("XXI")
+# scrape_indexpage(index_urls("XX")
+
+all_indexpagedata <- dir("data", pattern = "_X", full.names = T) %>%
+  map_dfr(readr::read_csv) %>%
+  select(-X1)
+  
+readr::write_csv(all_indexpagedata, "data/indexpagedata.csv")
+
+```
+# Main
+
+## Scraping from proposal pages
+
+```{r}
+# reading in indexpagedata and preparing variables (as.character for strings)
+
+indexpagedata <- readr::read_csv(file = "data/indexpagedata.csv") %>%
+  mutate_all(as.character)
+
+proposalpagedata <- indexpagedata %>%
+  mutate(.id = 1:n()) %>%
+  # sample_n(10) %>%
+  split(1:nrow(.)) %>% 
+  # I put the scraping code in a function, which is sourced from the script utils.R
+  # Map is more efficient than for loop
+  # It take the  providedfunction and apply it to each element of the input  
+  map_dfr(get_meta_info)
+
+data <- indexpagedata %>%
+  left_join(proposalpagedata) %>%
+  mutate(proposal_download = paste0("www.parlament.gv.at", proposal_download),
+         bill_download = bill_link %>% 
+           str_replace("^\\/(?<=PAKT)", "https://www.parlament.gv.at/") %>%
+           map(~{
+             if(str_detect(.x, "PAKT") != 1) {return(NA_character_)}
+             wait()
+             
+             .x %>%
+               read_html %>%
+               html_nodes("ul.fliesstext li a") %>%
+               html_attr("href") %>%
+               str_subset("\\d.html") %>% 
+               .[1] %>%
+               paste0("www.parlament.gv.at", .) 
+           }))
+
+
+
+data %>%
+  split(1:nrow(.)) %>%
+  walk(~{
+    download_html(.x$proposal_download , file = paste0("data/proposal/", .x$proposal_filename, ".html"))
+    wait()
+    download_html(.x$bill_download , file = paste0("data/bill/", .x$bill_id, ".html"))
+    wait()
+  })
+
+
+```
+
+

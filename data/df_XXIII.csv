@@ -1,445 +1,445 @@
-"","web_date","type","desc_title","proposal_id","proposal_link","period","status","proposal_filename"
-"1","20.12.2008","RV","Begründung weiterer Vorbelastungen; Bundesfinanzgesetz, Änderung","266 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00266/index.shtml","XXIII","5","XXIII_266dB"
-"2","21.10.2008","RV","Interbankmarktstärkungsgesetz - IBSG, Finanzmarktstabilitätsgesetz - FinStaG; ÖIAG-Gesetz, Bankwesengesetz u.a., Änderung","682 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00682/index.shtml","XXIII","5","XXIII_682dB"
-"3","20.10.2008","EBR","Einspruch des Bundesrates betr. Kriegsopferversorgungsgesetz, Opferfürsorgegesetz u.a., Änderung","681 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00681/index.shtml","XXIII","2","XXIII_681dB"
-"4","20.10.2008","EBR","Einspruch des Bundesrates betr. Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","680 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00680/index.shtml","XXIII","2","XXIII_680dB"
-"5","20.10.2008","RV","Zweites Gewaltschutzgesetz","678 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00678/index.shtml","XXIII","2","XXIII_678dB"
-"6","10.10.2008","A","Kriegsopferversorgungsgesetz, Opferfürsorgegesetz u.a., Änderung","905/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00905/index.shtml","XXIII","5","XXIII_905A"
-"7","10.10.2008","A","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","901/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00901/index.shtml","XXIII","5","XXIII_901A"
-"8","08.10.2008","RV","Bundespflegegeldgesetz, Änderung","677 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00677/index.shtml","XXIII","5","XXIII_677dB"
-"9","08.10.2008","A","Umsatzsteuergesetz 1994, Änderung","924/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00924/index.shtml","XXIII","5","XXIII_924A"
-"10","08.10.2008","A","Einkommensteuergesetz 1988, Änderung","915/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00915/index.shtml","XXIII","5","XXIII_915A"
-"11","08.10.2008","A","Allgemeines Sozialversicherungsgesetz, Beamten-Kranken- und Unfallversicherungsgesetz u.a., Änderung","906/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00906/index.shtml","XXIII","5","XXIII_906A"
-"12","08.10.2008","A","Familienlastenausgleichsgesetz, Änderung","900/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00900/index.shtml","XXIII","5","XXIII_900A"
-"13","08.10.2008","A","Universitätsgesetz, Hochschulgesetz u.a., Änderung","890/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00890/index.shtml","XXIII","5","XXIII_890A"
-"14","08.10.2008","A","Sozialrechts-Änderungsgesetz 2008","889/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00889/index.shtml","XXIII","5","XXIII_889A"
-"15","08.10.2008","A","Bundesstraßen-Mautgesetz, Änderung","883/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00883/index.shtml","XXIII","5","XXIII_883A"
-"16","25.09.2008","A","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","916/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00916/index.shtml","XXIII","4","XXIII_916A"
-"17","25.09.2008","A","Bundes-Verfassungsgesetz, Änderung","907/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00907/index.shtml","XXIII","4","XXIII_907A"
-"18","25.09.2008","A","Strafgesetzbuch, Änderung","902/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00902/index.shtml","XXIII","4","XXIII_902A"
-"19","24.09.2008","A","Arbeiterkammergesetz, Änderung","917/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00917/index.shtml","XXIII","4","XXIII_917A"
-"20","24.09.2008","A","Umsatzsteuergesetz, Änderung","893/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00893/index.shtml","XXIII","3","XXIII_893A"
-"21","24.09.2008","A","Preisgesetz, Preisauszeichnungsgesetz, Änderung","892/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00892/index.shtml","XXIII","3","XXIII_892A"
-"22","24.09.2008","A","Familienlastenausgleichsgesetz, Änderung","888/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00888/index.shtml","XXIII","3","XXIII_888A"
-"23","24.09.2008","A","Staatsbürgerschaftsänderungsgesetz, Änderung","735/A und Zu 735/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00735/index.shtml","XXIII","2","XXIII_735AundZu735A"
-"24","24.09.2008","A","Tilgungsgesetz, Änderung","713/A und Zu 713/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00713/index.shtml","XXIII","2","XXIII_713AundZu713A"
-"25","12.09.2008","BRA","Bundesrechnungsabschluss für das Jahr 2007","III-161 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00161/index.shtml","XXIII","3","XXIII_III161dB"
-"26","12.09.2008","RV","Veräußerung von unbeweglichem Bundesvermögen","676 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00676/index.shtml","XXIII","2","XXIII_676dB"
-"27","12.09.2008","RV","Gesundheits- und Sozialbereich-Beihilfengesetz, Änderung (GSBG-Novelle 2008)","675 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00675/index.shtml","XXIII","2","XXIII_675dB"
-"28","12.09.2008","RV","Privatfernsehgesetz, Privatradiogesetz, Änderung","674 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00674/index.shtml","XXIII","2","XXIII_674dB"
-"29","12.09.2008","RV","Zivildienstgesetz, Änderung","673 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00673/index.shtml","XXIII","2","XXIII_673dB"
-"30","12.09.2008","GABR","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","672 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00672/index.shtml","XXIII","2","XXIII_672dB"
-"31","12.09.2008","GABR","Pflege-Verfassungsgesetz","671 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00671/index.shtml","XXIII","2","XXIII_671dB"
-"32","12.09.2008","RV","Straßenverkehrsordnung, Kraftfahrgesetz, Änderung (22. StVO-Novelle)","670 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00670/index.shtml","XXIII","2","XXIII_670dB"
-"33","12.09.2008","RV","Wehrrechtsänderungsgesetz 2008 – WRÄG 2008","669 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00669/index.shtml","XXIII","2","XXIII_669dB"
-"34","12.09.2008","RV","IFI-Beitragsgesetz 2008","668 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00668/index.shtml","XXIII","2","XXIII_668dB"
-"35","12.09.2008","A","Einkommensteuergesetz 1988, Änderung","925/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00925/index.shtml","XXIII","2","XXIII_925A"
-"36","12.09.2008","A","Steuerbonus für das Jahr 2008","923/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00923/index.shtml","XXIII","2","XXIII_923A"
-"37","12.09.2008","A","Mineralölsteuergesetz, Änderung","922/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00922/index.shtml","XXIII","2","XXIII_922A"
-"38","12.09.2008","A","Familienlastenausgleichsgesetz, Änderung","921/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00921/index.shtml","XXIII","2","XXIII_921A"
-"39","12.09.2008","A","Finanzausgleichsgesetz 2008, Änderung","920/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00920/index.shtml","XXIII","2","XXIII_920A"
-"40","12.09.2008","A","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","919/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00919/index.shtml","XXIII","2","XXIII_919A"
-"41","12.09.2008","A","Heizkostenausgleichsfondsgesetz","918/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00918/index.shtml","XXIII","2","XXIII_918A"
-"42","12.09.2008","A","Mineralölsteuergesetz 1995, Änderung","910/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00910/index.shtml","XXIII","2","XXIII_910A"
-"43","12.09.2008","A","Asylgesetz, Änderung","909/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00909/index.shtml","XXIII","2","XXIII_909A"
-"44","12.09.2008","A","Niederlassungs- und Aufenthaltsgesetz - NAG, Änderung","908/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00908/index.shtml","XXIII","2","XXIII_908A"
-"45","12.09.2008","A","Krankenkassen-Finanzierungs-Sicherungsgesetz","846/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00846/index.shtml","XXIII","2","XXIII_846A"
-"46","12.09.2008","A","Sicherheitspolizeigesetz, Änderung","844/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00844/index.shtml","XXIII","2","XXIII_844A"
-"47","12.09.2008","A","Stiftungseingangssteuergesetz, Änderung; Stiftungseingangssteuergesetz","842/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00842/index.shtml","XXIII","2","XXIII_842A"
-"48","12.09.2008","A","Strafgesetzbuch, Änderung","759/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00759/index.shtml","XXIII","2","XXIII_759A"
-"49","12.09.2008","A","Strafgesetzbuch, Änderung","757/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00757/index.shtml","XXIII","2","XXIII_757A"
-"50","12.09.2008","A","Strafgesetzbuch, Änderung","529/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00529/index.shtml","XXIII","2","XXIII_529A"
-"51","12.09.2008","A","Schaffung eines vierwöchigen Freistellungsanspruches für Väter nach der Geburt ihres Kindes (Vatermonat)","357/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00357/index.shtml","XXIII","2","XXIII_357A"
-"52","12.09.2008","A","Allgemeines bürgerliches Gesetzbuch, Änderung","5/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00005/index.shtml","XXIII","2","XXIII_5A"
-"53","12.09.2008","A","Zivilpakt; Allgemeines bürgerliche Gesetzbuch, Mietrechtsgesetz u.a., Änderung","3/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00003/index.shtml","XXIII","2","XXIII_3A"
-"54","25.07.2008","RV","Lebensmittelgesetz, Lebensmittelsicherheits- und Verbraucherschutzgesetz, Änderung","611 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00611/index.shtml","XXIII","5","XXIII_611dB"
-"55","25.07.2008","RV","Tabakgesetz, Allgemeines Sozialversicherungsgesetz u.a., Änderung","610 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00610/index.shtml","XXIII","5","XXIII_610dB"
-"56","25.07.2008","RV","Finanzprokuraturgesetz - ProkG","609 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00609/index.shtml","XXIII","5","XXIII_609dB"
-"57","25.07.2008","RV","Schulunterrichtsgesetz, Änderung","606 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00606/index.shtml","XXIII","5","XXIII_606dB"
-"58","25.07.2008","RV","Arbeitszeitgesetz, Arbeitsruhegesetz, Änderung","591 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00591/index.shtml","XXIII","5","XXIII_591dB"
-"59","25.07.2008","RV","Suchtmittelgesetz - SMG, Gesundheits- und Ernährungssicherheitsgesetz – GESG (SMG-Novelle 2008)","590 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00590/index.shtml","XXIII","5","XXIII_590dB"
-"60","25.07.2008","RV","Elektrizitätswirtschafts- und -organisationsgesetz; Änderung","589 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00589/index.shtml","XXIII","5","XXIII_589dB"
-"61","25.07.2008","RV","Krankenanstalten-Arbeitszeitgesetz; Änderung","588 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00588/index.shtml","XXIII","5","XXIII_588dB"
-"62","25.07.2008","RV","Bundesbehindertengesetz, Änderung","587 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00587/index.shtml","XXIII","5","XXIII_587dB"
-"63","25.07.2008","RV","Abgabenänderungsgesetz 2008","586 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00586/index.shtml","XXIII","5","XXIII_586dB"
-"64","25.07.2008","RV","Abgeltung von Prüfungstätigkeiten im Bereich des Schulwesens mit Ausnahme des Hochschulwesens","579 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00579/index.shtml","XXIII","5","XXIII_579dB"
-"65","25.07.2008","RV","Berufsreifeprüfung, Änderung","577 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00577/index.shtml","XXIII","5","XXIII_577dB"
-"66","25.07.2008","RV","Anti-Doping-Bundesgesetz, Arzneimittelgesetz u.a., Änderung","561 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00561/index.shtml","XXIII","5","XXIII_561dB"
-"67","25.07.2008","RV","Bestimmungen auf dem Gebiet der Kraft-Wärme-Kopplung","554 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00554/index.shtml","XXIII","5","XXIII_554dB"
-"68","25.07.2008","RV","Ökostromgesetz, Änderung (2. Ökostromgesetz-Novelle 2008)","553 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00553/index.shtml","XXIII","5","XXIII_553dB"
-"69","25.07.2008","RV","Schulorganisationsgesetz, Änderung","548 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00548/index.shtml","XXIII","5","XXIII_548dB"
-"70","25.07.2008","A","Wärme- und Kälteleitungsausbaugesetz; Energie-Regulierungsbehördengesetz, Änderung","853/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00853/index.shtml","XXIII","5","XXIII_853A"
-"71","25.07.2008","A","Glücksspielgesetz, Änderung","837/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00837/index.shtml","XXIII","5","XXIII_837A"
-"72","25.07.2008","A","Ziviltechnikerkammergesetz, Änderung","812/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00812/index.shtml","XXIII","5","XXIII_812A"
-"73","22.07.2008","RV","Haftungsübernahme für die Ausstellung ""Vincent van Gogh. Gezeichnete Bilder""","585 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00585/index.shtml","XXIII","5","XXIII_585dB"
-"74","22.07.2008","A","Bundesgesetz,  mit dem die XXIII. Gesetzgebungsperiode des Nationalrates vorzeitig beendet wird","841/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00841/index.shtml","XXIII","5","XXIII_841A"
-"75","10.07.2008","A","Bundesgesetz zum Schutz und Erhalt der deutschen Sprache","885/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00885/index.shtml","XXIII","2","XXIII_885A"
-"76","10.07.2008","A","Einkommensteuergesetz 1988, Änderung","884/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00884/index.shtml","XXIII","2","XXIII_884A"
-"77","10.07.2008","A","Bundesvergabegesetz, Änderung","862/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00862/index.shtml","XXIII","2","XXIII_862A"
-"78","10.07.2008","A","Bundespflegegeldgesetz, Änderung","861/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00861/index.shtml","XXIII","2","XXIII_861A"
-"79","10.07.2008","A","Allgemeines Bürgerliches Gesetzbuch, Änderung","753/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00753/index.shtml","XXIII","2","XXIII_753A"
-"80","08.07.2008","RV","Passgesetz, Gebührengesetz u.a., Änderung","616 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00616/index.shtml","XXIII","2","XXIII_616dB"
-"81","08.07.2008","RV","Mediengesetz, Änderung","615 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00615/index.shtml","XXIII","2","XXIII_615dB"
-"82","08.07.2008","A","Geschäftsordnungsgesetz, Änderung","852/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00852/index.shtml","XXIII","1","XXIII_852A"
-"83","08.07.2008","A","Geschäftsordnungsgesetz, Änderung","851/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00851/index.shtml","XXIII","1","XXIII_851A"
-"84","08.07.2008","A","zur Kürzung der Bezüge für eine längerfristig deutlich unterdurchschnittliche Leistung der Bundesregierung","850/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00850/index.shtml","XXIII","2","XXIII_850A"
-"85","08.07.2008","A","Geschäftsordnungsgesetz, Änderung","849/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00849/index.shtml","XXIII","1","XXIII_849A"
-"86","08.07.2008","A","Ausfuhrförderungsgesetz, Änderung","847/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00847/index.shtml","XXIII","2","XXIII_847A"
-"87","08.07.2008","A","Niederlassungs- und Aufenthaltsgesetz, Änderung","845/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00845/index.shtml","XXIII","2","XXIII_845A"
-"88","08.07.2008","A","Strafgesetzbuch, Änderung","843/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00843/index.shtml","XXIII","2","XXIII_843A"
-"89","08.07.2008","A","Strafgesetzbuch, Änderung","816/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00816/index.shtml","XXIII","2","XXIII_816A"
-"90","08.07.2008","A","Schulorganisationsgesetz, Änderung","705/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00705/index.shtml","XXIII","5","XXIII_705A"
-"91","08.07.2008","A","Rückgabe von Kunstgegenständen aus den Österreichischen Bundesmuseen und Sammlungen und das Gesetz vom 1. August 1895 über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten, Änderung","643/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00643/index.shtml","XXIII","2","XXIII_643A"
-"92","08.07.2008","A","Konsumentenschutzgesetz, Änderung","499/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00499/index.shtml","XXIII","2","XXIII_499A"
-"93","08.07.2008","A","Mindestlohngesetz","337/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00337/index.shtml","XXIII","5","XXIII_337A"
-"94","08.07.2008","A","Beendigung der XXIII. Gesetzgebungsperiode des Nationalrates","262/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00262/index.shtml","XXIII","2","XXIII_262A"
-"95","08.07.2008","A","Parteiengesetz, Klubfinanzierungsgesetz u.a., Änderung","60/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00060/index.shtml","XXIII","2","XXIII_60A"
-"96","08.07.2008","A","Schulorganisationsgesetz, Änderung","32/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00032/index.shtml","XXIII","5","XXIII_32A"
-"97","08.07.2008","A","Parteiengesetz, Änderung","15/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00015/index.shtml","XXIII","2","XXIII_15A"
-"98","08.07.2008","A","Schulorganisationsgesetz, Änderung","2/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00002/index.shtml","XXIII","5","XXIII_2A"
-"99","08.07.2008","A","Universitätsgesetz, Änderung","1/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00001/index.shtml","XXIII","2","XXIII_1A"
-"100","07.07.2008","RV","Struktur-Änderungsgesetz für die Krankenversicherung und die Organisation der Sozialversicherung – SV-StrÄG","605 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00605/index.shtml","XXIII","2","XXIII_605dB"
-"101","06.07.2008","BUA","Normverbrauchsabgabegesetz, Änderung","180 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00180/index.shtml","XXIII","5","XXIII_180dB"
-"102","06.07.2008","A","Ausfuhrförderungsgesetz, Änderung","251/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00251/index.shtml","XXIII","5","XXIII_251A"
-"103","03.07.2008","A","Förderung von Kunst und kultureller Vielfalt; Kunstförderungsgesetz, Aufhebung","336/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00336/index.shtml","XXIII","2","XXIII_336A"
-"104","03.07.2008","A","Öffentliches Personennah- und Regionalverkehrsgesetz, Änderung; Bestellerförderung des Bundes","59/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00059/index.shtml","XXIII","2","XXIII_59A"
-"105","02.07.2008","A","Universitätsgesetz 2002, Änderung","587/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00587/index.shtml","XXIII","2","XXIII_587A"
-"106","02.07.2008","A","Universitätsgesetz, Änderung","495/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00495/index.shtml","XXIII","2","XXIII_495A"
-"107","02.07.2008","A","Universitätsgesetz, Änderung","494/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00494/index.shtml","XXIII","2","XXIII_494A"
-"108","19.06.2008","BUA","Reisegebührenvorschrift 1955, Änderung","613 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00613/index.shtml","XXIII","5","XXIII_613dB"
-"109","19.06.2008","BUA","Rechtsanwaltstarifgesetz, Änderung","583 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00583/index.shtml","XXIII","5","XXIII_583dB"
-"110","19.06.2008","BUA","Bundesgesetz über die Beschäftigung von Kindern und Jugendlichen, Änderung","576 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00576/index.shtml","XXIII","5","XXIII_576dB"
-"111","19.06.2008","RV","Justizbetreuungsagentur-Gesetz – JBA-G; Gesundheits- und Krankenpflegegesetz, MTD-Gesetz, Änderung","555 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00555/index.shtml","XXIII","5","XXIII_555dB"
-"112","19.06.2008","RV","Musiktherapiegesetz - MuthG","552 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00552/index.shtml","XXIII","5","XXIII_552dB"
-"113","19.06.2008","RV","Schenkungsmeldegesetz 2008","549 d.B. und Zu 549 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00549/index.shtml","XXIII","5","XXIII_549dBundZu549dB"
-"114","19.06.2008","RV","OeAD-Gesetz – OeADG","544 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00544/index.shtml","XXIII","5","XXIII_544dB"
-"115","19.06.2008","RV","Sozialversicherungs-Änderungsgesetz 2008 - SVÄG 2008","543 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00543/index.shtml","XXIII","5","XXIII_543dB"
-"116","19.06.2008","RV","Grundbuchs-Novelle 2008 – GB-Nov 2008","542 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00542/index.shtml","XXIII","5","XXIII_542dB"
-"117","19.06.2008","RV","Bundes-Gleichbehandlungsgesetz, Änderung","541 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00541/index.shtml","XXIII","5","XXIII_541dB"
-"118","19.06.2008","RV","EWR-Psychotherapiegesetz, Änderung (EWR-PthG-Novelle 2008)","540 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00540/index.shtml","XXIII","5","XXIII_540dB"
-"119","19.06.2008","RV","EWR-Psychologengesetz, Änderung (EWR-PG-Novelle 2008)","539 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00539/index.shtml","XXIII","5","XXIII_539dB"
-"120","19.06.2008","RV","Zwischenstaatlicher Luftverkehr","538 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00538/index.shtml","XXIII","5","XXIII_538dB"
-"121","19.06.2008","RV","Luftfahrtgesetz, Änderung","537 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00537/index.shtml","XXIII","5","XXIII_537dB"
-"122","19.06.2008","RV","Arbeitsmarktpolitik-Finanzierungsgesetz, Änderung","524 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00524/index.shtml","XXIII","5","XXIII_524dB"
-"123","19.06.2008","RV","AuftraggeberInnen-Haftungsgesetz","523 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00523/index.shtml","XXIII","5","XXIII_523dB"
-"124","19.06.2008","RV","Berufsausbildungsgesetz, Arbeitsmarktservicegesetz u.a., Änderung","505 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00505/index.shtml","XXIII","5","XXIII_505dB"
-"125","19.06.2008","RV","Gleichbehandlungsgesetz, Bundesgesetz über die Gleichbehandlungskommission und die Gleichbehandlungsanwaltschaft, Änderung","415 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00415/index.shtml","XXIII","5","XXIII_415dB"
-"126","19.06.2008","A","Landeslehrer-Dienstrechtsgesetz, Änderung","800/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00800/index.shtml","XXIII","2","XXIII_800A"
-"127","19.06.2008","A","Landeslehrer-Dienstrechtsgesetz, Änderung","799/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00799/index.shtml","XXIII","2","XXIII_799A"
-"128","19.06.2008","A","Beamten-Dienstrechtsgesetz 1979, Änderung","798/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00798/index.shtml","XXIII","2","XXIII_798A"
-"129","19.06.2008","A","Beamten-Dienstrechtsgesetz 1979, Änderung","797/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00797/index.shtml","XXIII","2","XXIII_797A"
-"130","19.06.2008","A","Entschädigungsfondsgesetz, Änderung","589/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00589/index.shtml","XXIII","5","XXIII_589A"
-"131","19.06.2008","A","Nachhilfeunterrichtsgesetz, Änderung","301/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00301/index.shtml","XXIII","2","XXIII_301A"
-"132","19.06.2008","A","Volksgruppengesetz, Änderung","263/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00263/index.shtml","XXIII","2","XXIII_263A"
-"133","17.06.2008","A","Allgemeines Sozialversicherungsgesetz, Gewerbliche Sozialversicherungsgesetz u.a., Änderung","599/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00599/index.shtml","XXIII","2","XXIII_599A"
-"134","17.06.2008","A","Bundespflegegeldgesetz, Änderung","450/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00450/index.shtml","XXIII","2","XXIII_450A"
-"135","07.06.2008","A","Geschäftsordnungsgesetz, Änderung","824/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00824/index.shtml","XXIII","1","XXIII_824A"
-"136","07.06.2008","A","Reisegebührenvorschrift, Änderung","802/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00802/index.shtml","XXIII","2","XXIII_802A"
-"137","07.06.2008","A","Bundesverfassungsgesetz über die Begrenzung von Bezügen öffentlicher Funktionäre, Änderung","786/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00786/index.shtml","XXIII","1","XXIII_786A"
-"138","06.06.2008","A","Entschädigungsfondsgesetz, Änderung","588/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00588/index.shtml","XXIII","5","XXIII_588A"
-"139","05.06.2008","A","Arbeitsmarktpolitik-Finanzierungsgesetz, Änderung","714/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00714/index.shtml","XXIII","5","XXIII_714A"
-"140","05.06.2008","A","Geschäftsordnungsgesetz 1975, Änderung","682/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00682/index.shtml","XXIII","2","XXIII_682A"
-"141","05.06.2008","A","Arbeitslosenversicherungsgesetz, Änderung","621/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00621/index.shtml","XXIII","5","XXIII_621A"
-"142","04.06.2008","A","Einkommensteuergesetz 1988, Änderung","683/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00683/index.shtml","XXIII","2","XXIII_683A"
-"143","04.06.2008","A","Einkommensteuergesetz, Änderung","527/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00527/index.shtml","XXIII","4","XXIII_527A"
-"144","29.05.2008","A","Lebensmittelsicherheits- und Verbraucherschutzgesetzes, Änderung","209/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00209/index.shtml","XXIII","2","XXIII_209A"
-"145","27.05.2008","A","Arbeitslosenversicherungsgesetz, Änderung","6/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00006/index.shtml","XXIII","2","XXIII_6A"
-"146","27.05.2008","A","Arbeitslosenversicherungsgesetz, Änderung","4/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00004/index.shtml","XXIII","2","XXIII_4A"
-"147","21.05.2008","BUA","Referenzmengen-Zuteilungs-Verordnung 2006, Änderung","551 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00551/index.shtml","XXIII","5","XXIII_551dB"
-"148","21.05.2008","RV","Hochschul-Studienberechtigungsgesetz;  Hochschulgesetz, Privatschulgesetz, Änderung","522 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00522/index.shtml","XXIII","5","XXIII_522dB"
-"149","21.05.2008","RV","Medizinproduktegesetz, Gesundheit Österreich GmbH, Änderung","504 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00504/index.shtml","XXIII","5","XXIII_504dB"
-"150","21.05.2008","RV","Epidemiegesetz, Änderung","503 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00503/index.shtml","XXIII","5","XXIII_503dB"
-"151","21.05.2008","RV","Apothekengesetz, Apothekerkammergesetz, Änderung","502 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00502/index.shtml","XXIII","5","XXIII_502dB"
-"152","21.05.2008","RV","Verkehrs-Arbeitsinspektionsgesetz – VAIG, Änderung","451 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00451/index.shtml","XXIII","5","XXIII_451dB"
-"153","21.05.2008","RV","Ökostromgesetz, Änderung (Ökostromgesetz-Novelle 2008)","438 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00438/index.shtml","XXIII","2","XXIII_438dB"
-"154","21.05.2008","RV","Schifffahrtsgesetz, Änderung","326 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00326/index.shtml","XXIII","5","XXIII_326dB"
-"155","21.05.2008","A","Umsatzsteuergesetz 1994, Änderung","761/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00761/index.shtml","XXIII","2","XXIII_761A"
-"156","21.05.2008","A","Medizinischer Masseur- und Heilmasseurgesetz, Änderung","721/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00721/index.shtml","XXIII","2","XXIII_721A"
-"157","21.05.2008","A","Umweltförderungsgesetz, Änderung","656/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00656/index.shtml","XXIII","5","XXIII_656A"
-"158","21.05.2008","A","Marktordnungsgesetz, Marktordnungs-Überleitungsgesetz, Änderung","483/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00483/index.shtml","XXIII","5","XXIII_483A"
-"159","08.05.2008","A","Registerzählungsgesetz, Änderung","762/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00762/index.shtml","XXIII","2","XXIII_762A"
-"160","08.05.2008","A","Tilgungsgesetz, Änderung","758/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00758/index.shtml","XXIII","2","XXIII_758A"
-"161","07.05.2008","A","Bundes-Verfassungsgesetz, Änderung; Instandsetzung und Fürsorge jüdischer Friedhöfe","639/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00639/index.shtml","XXIII","2","XXIII_639A"
-"162","07.05.2008","A","Beamten-Dienstrechtsgesetz 1979, Änderung","635/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00635/index.shtml","XXIII","2","XXIII_635A"
-"163","07.05.2008","A","Verfahrensordnung für parlamentarische Untersuchungsausschüsse, Änderung","634/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00634/index.shtml","XXIII","2","XXIII_634A"
-"164","07.05.2008","A","Gebührengesetz, Änderung","625/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00625/index.shtml","XXIII","2","XXIII_625A"
-"165","07.05.2008","A","Geschäftsordnungsgesetz 1975, Änderung","610/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00610/index.shtml","XXIII","2","XXIII_610A"
-"166","07.05.2008","A","Bundes-Verfassungsgesetz, Änderung","604/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00604/index.shtml","XXIII","2","XXIII_604A"
-"167","07.05.2008","A","Geschäftsordnungsgesetz 1975, Änderung","603/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00603/index.shtml","XXIII","2","XXIII_603A"
-"168","24.04.2008","BUA","Versicherungsaufsichtsgesetz, Änderung","515 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00515/index.shtml","XXIII","5","XXIII_515dB"
-"169","24.04.2008","RV","Katastrophenfondsgesetz, Finanzausgleichsgesetz, Änderung","479 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00479/index.shtml","XXIII","5","XXIII_479dB"
-"170","24.04.2008","RV","Behinderteneinstellungsgesetz, Bundes-Behindertengleichstellungsgesetz, Änderung","477 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00477/index.shtml","XXIII","5","XXIII_477dB"
-"171","24.04.2008","RV","Unternehmensrechts-Änderungsgesetz 2008 – URÄG 2008","467 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00467/index.shtml","XXIII","5","XXIII_467dB"
-"172","24.04.2008","RV","Feilbietungsrechtsänderungsgesetz – FRÄG","466 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00466/index.shtml","XXIII","5","XXIII_466dB"
-"173","24.04.2008","RV","70. Jahrestag des Einmarsches der Truppen des nationalsozialistischen Deutschen Reiches in Österreich (Erinnerungszuwendung)","465 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00465/index.shtml","XXIII","5","XXIII_465dB"
-"174","24.04.2008","RV","Investmentfondsgesetz, Immobilien-Investmentfondsgesetz u.a., Änderung","452 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00452/index.shtml","XXIII","5","XXIII_452dB"
-"175","24.04.2008","A","Einkommensteuergesetz, EU-Quellensteuergesetz u.a., Änderung","674/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00674/index.shtml","XXIII","5","XXIII_674A"
-"176","24.04.2008","A","Konsulargebührengesetz, Änderung","652/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00652/index.shtml","XXIII","5","XXIII_652A"
-"177","10.04.2008","A","Volksabstimmungsgesetz, Änderung","704/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00704/index.shtml","XXIII","2","XXIII_704A"
-"178","10.04.2008","A","Universitätsgesetz,  Hochschulgesetz, Änderung","695/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00695/index.shtml","XXIII","2","XXIII_695A"
-"179","10.04.2008","A","Parteiengesetz, Änderung","694/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00694/index.shtml","XXIII","2","XXIII_694A"
-"180","10.04.2008","A","Opferfürsorgegesetz, Änderung","556/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00556/index.shtml","XXIII","5","XXIII_556A"
-"181","10.04.2008","A","Allgemeines Sozialversicherungsgesetz, Änderung","555/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00555/index.shtml","XXIII","5","XXIII_555A"
-"182","09.04.2008","A","Bundesverfassungsgesetz, Änderung","394/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00394/index.shtml","XXIII","5","XXIII_394A"
-"183","02.04.2008","A","Behinderteneinstellungsgesetz, Änderung","512/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00512/index.shtml","XXIII","2","XXIII_512A"
-"184","28.03.2008","BUA","Arzneimittelgesetz, Arzneiwareneinfuhrgesetz, Änderung","482 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00482/index.shtml","XXIII","5","XXIII_482dB"
-"185","28.03.2008","RV","Sicherstellung der Realisierung des Erdgaspipelineprojekts ""Nabucco""","437 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00437/index.shtml","XXIII","5","XXIII_437dB"
-"186","28.03.2008","RV","Erdöl-Bevorratungsgesetz, Meldegesetz, Änderung","436 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00436/index.shtml","XXIII","5","XXIII_436dB"
-"187","28.03.2008","RV","Gesundheitsberufe-Rechtsänderungsgesetz 2007","435 d.B. und Zu 435 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00435/index.shtml","XXIII","5","XXIII_435dBundZu435dB"
-"188","28.03.2008","RV","Hebammengesetz, Zahnärztegesetz","433 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00433/index.shtml","XXIII","5","XXIII_433dB"
-"189","28.03.2008","RV","Bauträgervertragsgesetz","432 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00432/index.shtml","XXIII","5","XXIII_432dB"
-"190","28.03.2008","RV","Künstler-Sozialversicherungsfondsgesetz, Änderung","414 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00414/index.shtml","XXIII","5","XXIII_414dB"
-"191","28.03.2008","RV","Abfallwirtschaftsgesetz, Änderung (AWG-Novelle Batterien)","327 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00327/index.shtml","XXIII","5","XXIII_327dB"
-"192","28.03.2008","A","Mietrechtliches Inflationslinderungsgesetz, Änderung","622/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00622/index.shtml","XXIII","5","XXIII_622A"
-"193","27.03.2008","A","Grundrechtsbeschwerde, Änderung","410/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00410/index.shtml","XXIII","2","XXIII_410A"
-"194","27.03.2008","A","Namensrechtsänderungsgesetz, Änderung","334/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00334/index.shtml","XXIII","2","XXIII_334A"
-"195","13.03.2008","A","Exekutionsordnung, Änderung","654/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00654/index.shtml","XXIII","2","XXIII_654A"
-"196","11.03.2008","A","Mutterschutzgesetz, Änderung","631/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00631/index.shtml","XXIII","2","XXIII_631A"
-"197","11.03.2008","A","Geschäftsordnungsgesetz 1975, Änderung","586/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00586/index.shtml","XXIII","2","XXIII_586A"
-"198","11.03.2008","A","Versammlungsgesetz, Änderung","583/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00583/index.shtml","XXIII","2","XXIII_583A"
-"199","11.03.2008","A","Strafgesetzbuch, Änderung","565/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00565/index.shtml","XXIII","2","XXIII_565A"
-"200","11.03.2008","A","Soziale Absicherung von Künstlerinnen und Künstlern; Künstler-Sozialversicherungsfondsgesetz, Aufhebung","17/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00017/index.shtml","XXIII","5","XXIII_17A"
-"201","04.03.2008","A","Familienlastenausgleichsgesetz, Änderung","484/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00484/index.shtml","XXIII","2","XXIII_484A"
-"202","04.03.2008","A","Familienlastenausgleichsgesetz, Änderung","474/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00474/index.shtml","XXIII","2","XXIII_474A"
-"203","03.03.2008","A","Allgemeines Sozialversicherungsgesetz, Änderung","607/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00607/index.shtml","XXIII","2","XXIII_607A"
-"204","03.03.2008","A","Mietrechtliches Inflationslinderungsgesetz, Änderung","606/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00606/index.shtml","XXIII","2","XXIII_606A"
-"205","27.02.2008","A","Bundes-Verfassungsgesetz, Rechnungshofgesetz, Änderung","377/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00377/index.shtml","XXIII","2","XXIII_377A"
-"206","27.02.2008","A","Bundes-Verfassungsgesetz, Rechnungshofgesetz, Änderung","376/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00376/index.shtml","XXIII","2","XXIII_376A"
-"207","27.02.2008","A","Wohnungsgemeinnützigkeitsgesetz, Änderung","375/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00375/index.shtml","XXIII","2","XXIII_375A"
-"208","14.02.2008","BUA","Ökostromgesetz-Novelle 2008; Einkommensteuergesetz 1988, Änderung","442 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00442/index.shtml","XXIII","5","XXIII_442dB"
-"209","14.02.2008","RV","Ökologisierungsgesetz 2007 (ÖkoG 2007)","406 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00406/index.shtml","XXIII","5","XXIII_406dB"
-"210","14.02.2008","RV","Studienförderungsgesetz 1992","405 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00405/index.shtml","XXIII","5","XXIII_405dB"
-"211","14.02.2008","RV","Vereinsgesetz, Änderung","263 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00263/index.shtml","XXIII","5","XXIII_263dB"
-"212","14.02.2008","A","Gewerbeordnung, Änderung","549/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00549/index.shtml","XXIII","5","XXIII_549A"
-"213","14.02.2008","A","Pflege-Verfassungsgesetz","547/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00547/index.shtml","XXIII","5","XXIII_547A"
-"214","14.02.2008","A","Parlamentsmitarbeitergesetz, Änderung","489/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00489/index.shtml","XXIII","5","XXIII_489A"
-"215","31.01.2008","A","Bundes-Verfassungsgesetz (B-VG), Änderung","592/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00592/index.shtml","XXIII","2","XXIII_592A"
-"216","31.01.2008","A","Bilanzbuchhaltungsgesetz, Änderung","584/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00584/index.shtml","XXIII","2","XXIII_584A"
-"217","31.01.2008","A","Normverbrauchsabgabegesetz, Änderung","578/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00578/index.shtml","XXIII","2","XXIII_578A"
-"218","31.01.2008","A","Sicherheitspolizeigesetz, Änderung","570/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00570/index.shtml","XXIII","2","XXIII_570A"
-"219","31.01.2008","A","Bundes-Verfassungsgesetz (B-VG), Änderung","542/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00542/index.shtml","XXIII","2","XXIII_542A"
-"220","31.01.2008","A","Futtermittelgesetz, Änderung","478/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00478/index.shtml","XXIII","2","XXIII_478A"
-"221","24.01.2008","A","Einkommensteuergesetz, Änderung","541/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00541/index.shtml","XXIII","2","XXIII_541A"
-"222","24.01.2008","A","Bleiberechtsgesetz, Änderung","273/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00273/index.shtml","XXIII","2","XXIII_273A"
-"223","24.01.2008","A","Waffengesetz, Änderung","68/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00068/index.shtml","XXIII","2","XXIII_68A"
-"224","16.01.2008","A","Bundes-Verfassungsgesetz (B-VG), Änderung","560/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00560/index.shtml","XXIII","2","XXIII_560A"
-"225","07.01.2008","RV","Signaturgesetz, Ziviltechnikergesetz u.a., Änderung","293 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00293/index.shtml","XXIII","5","XXIII_293dB"
-"226","07.01.2008","RV","E-Government-Gesetz, Änderung  (E-GovG-Novelle 2007)","290 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00290/index.shtml","XXIII","5","XXIII_290dB"
-"227","20.12.2007","BUA","Auslandseinsatzgesetz 2001, Militärbefugnisgesetz, Änderung","400 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00400/index.shtml","XXIII","5","XXIII_400dB"
-"228","20.12.2007","BUA","Gebührengesetz 1957, Abgabenverwaltungsorganisationsgesetz u.a., Änderung","392 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00392/index.shtml","XXIII","5","XXIII_392dB"
-"229","20.12.2007","BUA","Arbeiterkammergesetz 1992, Änderung","360 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00360/index.shtml","XXIII","5","XXIII_360dB"
-"230","20.12.2007","BUA","Außenhandelsgesetz, Änderung","336 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00336/index.shtml","XXIII","5","XXIII_336dB"
-"231","20.12.2007","BUA","Konsumentenschutzgesetz, Änderung","321 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00321/index.shtml","XXIII","5","XXIII_321dB"
-"232","20.12.2007","RV","Bankwesengesetz, Sparkassengesetz u.a., Änderung","313 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00313/index.shtml","XXIII","5","XXIII_313dB"
-"233","20.12.2007","RV","Schulorganisationsgesetz, Änderung","307 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00307/index.shtml","XXIII","5","XXIII_307dB"
-"234","20.12.2007","RV","BIFIE-Gesetz 2008","306 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00306/index.shtml","XXIII","5","XXIII_306dB"
-"235","20.12.2007","RV","Kraftfahrgesetz, Änderung (29. KFG-Novelle)","305 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00305/index.shtml","XXIII","5","XXIII_305dB"
-"236","20.12.2007","RV","Kriegsopferversorgungsgesetz, Opferfürsorgegesetz u.a., Änderung","304 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00304/index.shtml","XXIII","5","XXIII_304dB"
-"237","20.12.2007","RV","Berufsrechts-Änderungsgesetz 2008","303 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00303/index.shtml","XXIII","5","XXIII_303dB"
-"238","20.12.2007","RV","Strafrechtsänderungsgesetz 2008","302 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00302/index.shtml","XXIII","5","XXIII_302dB"
-"239","20.12.2007","RV","SMG-Novelle 2007","301 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00301/index.shtml","XXIII","5","XXIII_301dB"
-"240","20.12.2007","RV","Betriebliches Mitarbeitervorsorgegesetz, Einkommensteuergesetz u.a., Änderung","300 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00300/index.shtml","XXIII","5","XXIII_300dB"
-"241","20.12.2007","RV","Strafprozessreformbegleitgesetz II","299 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00299/index.shtml","XXIII","5","XXIII_299dB"
-"242","20.12.2007","RV","Exekutionsordnungs-Novelle 2008 – EO-Nov. 2008","295 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00295/index.shtml","XXIII","5","XXIII_295dB"
-"243","20.12.2007","RV","Finanzausgleichsgesetz; Zweckzuschussgesetz, Katastrophenfondsgesetz u.a., Änderung","289 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00289/index.shtml","XXIII","5","XXIII_289dB"
-"244","20.12.2007","RV","Bilanzbuchhaltungsgesetz, Änderung","288 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00288/index.shtml","XXIII","5","XXIII_288dB"
-"245","20.12.2007","RV","Ziviltechnikergesetz, Änderung","287 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00287/index.shtml","XXIII","5","XXIII_287dB"
-"246","20.12.2007","RV","Bankwesengesetz, Börsegesetz u.a., Änderung","286 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00286/index.shtml","XXIII","5","XXIII_286dB"
-"247","20.12.2007","RV","Gewerbeordnung; Änderung","283 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00283/index.shtml","XXIII","5","XXIII_283dB"
-"248","20.12.2007","RV","Schulzeitgesetz, Änderung","282 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00282/index.shtml","XXIII","5","XXIII_282dB"
-"249","20.12.2007","RV","Schulunterrichtsgesetz, Änderung","281 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00281/index.shtml","XXIII","5","XXIII_281dB"
-"250","20.12.2007","RV","Flughafen-Bodenabfertigungsgesetz, Änderung","280 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00280/index.shtml","XXIII","5","XXIII_280dB"
-"251","20.12.2007","RV","Wirtschaftstreuhandberufsgesetz, Änderung","279 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00279/index.shtml","XXIII","5","XXIII_279dB"
-"252","20.12.2007","RV","Altlastensanierungsgesetz, Änderung (ALSAG-Novelle 2008)","271 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00271/index.shtml","XXIII","5","XXIII_271dB"
-"253","20.12.2007","RV","Abgabensicherungsgesetz 2007","270 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00270/index.shtml","XXIII","5","XXIII_270dB"
-"254","20.12.2007","RV","Mittelstandsfinanzierungsgesellschaften-Gesetz 2007 (MiFiG-Gesetz 2007)","269 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00269/index.shtml","XXIII","5","XXIII_269dB"
-"255","20.12.2007","RV","Bundesfinanzgesetz 2008","262 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00262/index.shtml","XXIII","5","XXIII_262dB"
-"256","20.12.2007","RV","Umweltförderungsgesetz, Änderung","260 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00260/index.shtml","XXIII","5","XXIII_260dB"
-"257","20.12.2007","RV","Bildungsdokumentationsgesetz, Änderung","259 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00259/index.shtml","XXIII","5","XXIII_259dB"
-"258","20.12.2007","RV","Rotkreuzgesetz - RKG","233 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00233/index.shtml","XXIII","5","XXIII_233dB"
-"259","20.12.2007","RV","Bundesgesetz über das Verbot von Streumunition","232 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00232/index.shtml","XXIII","5","XXIII_232dB"
-"260","20.12.2007","RV","Führerscheingesetz, Änderung (11. Führerscheingesetz-Novelle)","230 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00230/index.shtml","XXIII","5","XXIII_230dB"
-"261","20.12.2007","RV","Patentanwaltsgesetz, Änderung","206 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00206/index.shtml","XXIII","5","XXIII_206dB"
-"262","20.12.2007","RV","Bundeshaushaltsgesetz, Änderung","204 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00204/index.shtml","XXIII","5","XXIII_204dB"
-"263","20.12.2007","RV","Bundes-Verfassungsgesetz, Bundeshaushaltsgesetz, Änderung","203 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00203/index.shtml","XXIII","5","XXIII_203dB"
-"264","20.12.2007","RV","Wehrgesetz 2001, Heeresdisziplinargesetz 2002, Heeresgebührengesetz 2001 und Militärauszeichnungsgesetz 2002","65 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00065/index.shtml","XXIII","5","XXIII_65dB"
-"265","20.12.2007","A","Schulunterrichtsgesetz, Änderung","464/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00464/index.shtml","XXIII","5","XXIII_464A"
-"266","19.12.2007","BUA","Asylgerichtshof-Einrichtungsgesetz","371 d.B. und Zu 371 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00371/index.shtml","XXIII","5","XXIII_371dBundZu371dB"
-"267","19.12.2007","BUA","Wachebediensteten-Hilfeleistungsgesetz, Änderung","368 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00368/index.shtml","XXIII","5","XXIII_368dB"
-"268","19.12.2007","BUA","Vermessungsgesetz, Änderung","363 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00363/index.shtml","XXIII","5","XXIII_363dB"
-"269","19.12.2007","BUA","Pensionsgesetz 1965, Bundesbahn-Pensionsgesetz, Änderung","353 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00353/index.shtml","XXIII","5","XXIII_353dB"
-"270","19.12.2007","RV","Bundes-Verfassungsgesetz, Änderung; Erstes Bundesverfassungsrechtsbereinigungsgesetz","314 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00314/index.shtml","XXIII","5","XXIII_314dB"
-"271","19.12.2007","RV","Arbeitslosenversicherungsgesetz, Arbeitsmarktpolitik-Finanzierungsgesetz u.a., Änderung","298 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00298/index.shtml","XXIII","5","XXIII_298dB"
-"272","19.12.2007","RV","Bundesgesetz zur Anpassung von Rechtsvorschriften an die Vereinbarung gemäß Art. 15a B-VG über die Organisation und Finanzierung des Gesundheitswesens für die Jahre 2008 bis 2013","297 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00297/index.shtml","XXIII","5","XXIII_297dB"
-"273","19.12.2007","RV","2. Dienstrechts-Novelle 2007","296 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00296/index.shtml","XXIII","5","XXIII_296dB"
-"274","19.12.2007","RV","Verwaltungsverfahrens- und Zustellrechtsänderungsgesetz 2007","294 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00294/index.shtml","XXIII","5","XXIII_294dB"
-"275","19.12.2007","RV","Veterinärrechtsänderungsgesetz 2007","292 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00292/index.shtml","XXIII","5","XXIII_292dB"
-"276","19.12.2007","RV","Tierschutzgesetz, Änderung","291 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00291/index.shtml","XXIII","5","XXIII_291dB"
-"277","19.12.2007","RV","Informationsmanagement - Gesundheitstelematikgesetz, Änderung","284 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00284/index.shtml","XXIII","5","XXIII_284dB"
-"278","19.12.2007","RV","Sicherheitspolizeigesetz, Grenzkontrollgesetz, u.a.; Änderung","272 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00272/index.shtml","XXIII","5","XXIII_272dB"
-"279","19.12.2007","RV","Bundesfinanzgesetz, Änderung (BFG-Novelle 2008)","268 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00268/index.shtml","XXIII","5","XXIII_268dB"
-"280","19.12.2007","RV","Budgetüberschreitungsgesetz 2007 - BÜG 2007","267 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00267/index.shtml","XXIII","5","XXIII_267dB"
-"281","19.12.2007","RV","Gewebesicherheitsgesetz; Arzneimittelgesetz, Fortpflanzungsmedizingesetz u.a., Änderung","261 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00261/index.shtml","XXIII","5","XXIII_261dB"
-"282","19.12.2007","RV","Sicherheitspolizeigesetz","158 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00158/index.shtml","XXIII","5","XXIII_158dB"
-"283","19.12.2007","RV","EU-Verwaltungsstrafvollstreckungsgesetz – EU-VStVG, Verwaltungsstrafgesetz 1991 und Verwaltungsvollstreckungsgesetz 1991","46 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00046/index.shtml","XXIII","5","XXIII_46dB"
-"284","19.12.2007","A","Errichtung eines Rates für Fragen der österreichischen Integrations- und Außenpolitik und eines Nationalen Sicherheitsrates, Änderung","482/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00482/index.shtml","XXIII","5","XXIII_482A"
-"285","18.12.2007","A","Konsumentenschutzgesetz, Änderung","498/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00498/index.shtml","XXIII","2","XXIII_498A"
-"286","18.12.2007","A","Allgemeines bürgerliches Gesetzbuch, Änderung","472/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00472/index.shtml","XXIII","2","XXIII_472A"
-"287","06.12.2007","A","Bundes-Verfassungsgesetz, Änderung","536/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00536/index.shtml","XXIII","2","XXIII_536A"
-"288","06.12.2007","A","Strafgesetzbuch (StGB), Änderung","534/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00534/index.shtml","XXIII","2","XXIII_534A"
-"289","06.12.2007","A","Außerstreitgesetz, Änderung","530/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00530/index.shtml","XXIII","2","XXIII_530A"
-"290","06.12.2007","A","Bundes-Umwelthaftungsgesetz (B-UHG)","520/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00520/index.shtml","XXIII","2","XXIII_520A"
-"291","06.12.2007","A","Straßenverkehrsordnung, Änderung","515/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00515/index.shtml","XXIII","2","XXIII_515A"
-"292","06.12.2007","A","Bundesverfassungsgesetz über die Offenlegung von Einkommen und Vermögen im öffentlichen Bereich","493/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00493/index.shtml","XXIII","2","XXIII_493A"
-"293","06.12.2007","A","Heizkostenausgleichsfondsgesetz","435/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00435/index.shtml","XXIII","2","XXIII_435A"
-"294","05.12.2007","RV","Glücksspielgesetz, Änderung (GSpG-Novelle 2007)","318 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00318/index.shtml","XXIII","2","XXIII_318dB"
-"295","05.12.2007","RV","Strafrechtsänderungsgesetz","285 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00285/index.shtml","XXIII","5","XXIII_285dB"
-"296","05.12.2007","A","bedingte Entlassung aus dem Strafvollzug im Strafgesetzbuch","141/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00141/index.shtml","XXIII","5","XXIII_141A"
-"297","04.12.2007","A","Strafgesetzbuch, Änderung (zurückgezogen)","414/A und Zu 414/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00414/index.shtml","XXIII","5","XXIII_414AundZu414A"
-"298","04.12.2007","A","Kriegsopferversorgungsgesetz, Opferfürsorgegesetz u.a., Änderung","29/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00029/index.shtml","XXIII","5","XXIII_29A"
-"299","29.11.2007","A","Einkommensteuergesetz 1988, Änderung","439/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00439/index.shtml","XXIII","2","XXIII_439A"
-"300","29.11.2007","A","Einkommensteuergesetz 1988, Änderung","438/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00438/index.shtml","XXIII","2","XXIII_438A"
-"301","29.11.2007","A","Einkommensteuergesetz 1988, Änderung","436/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00436/index.shtml","XXIII","2","XXIII_436A"
-"302","28.11.2007","A","Wohnungsgemeinnützigkeitsgesetz, Änderung","399/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00399/index.shtml","XXIII","2","XXIII_399A"
-"303","28.11.2007","A","Prüfungskompetenzen des Rechnungshofes, Änderung","398/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00398/index.shtml","XXIII","2","XXIII_398A"
-"304","28.11.2007","A","Prüfungskompetenzen des Rechnungshofes, Änderung","397/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00397/index.shtml","XXIII","2","XXIII_397A"
-"305","28.11.2007","A","Wohnungsgemeinnützigkeitsgesetz, Änderung","391/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00391/index.shtml","XXIII","2","XXIII_391A"
-"306","27.11.2007","A","Arbeitslosenversicherungsgesetz, Änderung","460/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00460/index.shtml","XXIII","2","XXIII_460A"
-"307","27.11.2007","A","Bundespflegegeldgesetz, Änderung","327/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00327/index.shtml","XXIII","2","XXIII_327A"
-"308","27.11.2007","A","Arbeitslosenversicherungsgesetz, Änderung","138/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00138/index.shtml","XXIII","2","XXIII_138A"
-"309","22.11.2007","RV","Universitätsgesetz, Änderung","241 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00241/index.shtml","XXIII","5","XXIII_241dB"
-"310","22.11.2007","RV","Strafprozessreformbegleitgesetz I","231 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00231/index.shtml","XXIII","5","XXIII_231dB"
-"311","22.11.2007","RV","Familienlastenausgleichsgesetz, Änderung","228 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00228/index.shtml","XXIII","5","XXIII_228dB"
-"312","22.11.2007","RV","Errichtung der Gesellschaft ""Familie & Beruf Management GmbH"", Änderung","227 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00227/index.shtml","XXIII","5","XXIII_227dB"
-"313","22.11.2007","RV","Bundesstatistikgesetz 2000","202 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00202/index.shtml","XXIII","5","XXIII_202dB"
-"314","22.11.2007","RV","Fonds zur Förderung der Errichtung einer Fakultät für Bauingenieurwesen und Architektur an der Universität Innsbruck","79 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00079/index.shtml","XXIII","5","XXIII_79dB"
-"315","22.11.2007","A","Strafgesetzbuch, Änderung","413/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00413/index.shtml","XXIII","2","XXIII_413A"
-"316","22.11.2007","A","Fachhochschul-Studiengesetz, Änderung","408/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00408/index.shtml","XXIII","5","XXIII_408A"
-"317","22.11.2007","A","Strafgesetzbuch, Änderung","291/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00291/index.shtml","XXIII","2","XXIII_291A"
-"318","21.11.2007","A","Führerscheingesetz, Änderung","57/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00057/index.shtml","XXIII","2","XXIII_57A"
-"319","08.11.2007","A","Pflege-Übergangsgesetz, Änderung","449/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00449/index.shtml","XXIII","2","XXIII_449A"
-"320","08.11.2007","A","Sozialversicherungs-Änderungsgesetz 2007 - SVÄG 2007, Änderung","447/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00447/index.shtml","XXIII","2","XXIII_447A"
-"321","08.11.2007","A","Rechnungshofgesetz, Änderung","390/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00390/index.shtml","XXIII","2","XXIII_390A"
-"322","08.11.2007","A","Erweiterung der Prüfungskompetenzen des Rechnungshofes, Änderung","389/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00389/index.shtml","XXIII","2","XXIII_389A"
-"323","31.10.2007","BRA","Bundesrechnungsabschluss für das Jahr 2006","III-87 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00087/index.shtml","XXIII","5","XXIII_III87dB"
-"324","31.10.2007","RV","Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Änderung","229 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00229/index.shtml","XXIII","5","XXIII_229dB"
-"325","31.10.2007","RV","Bundesstraßen-Mautgesetz 2002, ASFINAG-Gesetz, Änderung","217 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00217/index.shtml","XXIII","5","XXIII_217dB"
-"326","31.10.2007","RV","Patentgesetz 1970, Gebrauchsmustergesetz, Patentverträge-Einführungsgesetz, Schutzzertifikatsgesetz 1996, Markenschutzgesetz 1970 und Patentamtsgebührengesetz","216 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00216/index.shtml","XXIII","5","XXIII_216dB"
-"327","31.10.2007","RV","Ausländerbeschäftigungsgesetz, Arbeitsvertragsrechts-Anpassungsgesetz, Änderung","215 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00215/index.shtml","XXIII","5","XXIII_215dB"
-"328","31.10.2007","RV","Arbeitsverfassungsgesetz, Post-Betriebsverfassung u.a., Änderung","214 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00214/index.shtml","XXIII","5","XXIII_214dB"
-"329","31.10.2007","RV","Änderung des Kesselgesetzes","148 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00148/index.shtml","XXIII","5","XXIII_148dB"
-"330","31.10.2007","RV","Bundesgesetz gegen den unlauteren Wettbewerb 1984 (UWG-Novelle 2007)","144 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00144/index.shtml","XXIII","5","XXIII_144dB"
-"331","31.10.2007","A","Seilbahngesetz, Änderung","275/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00275/index.shtml","XXIII","5","XXIII_275A"
-"332","18.10.2007","A","Meldegesetz 1991, Änderung","427/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00427/index.shtml","XXIII","2","XXIII_427A"
-"333","18.10.2007","A","Straßenverkehrsordnung, Änderung","426/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00426/index.shtml","XXIII","2","XXIII_426A"
-"334","18.10.2007","A","AMA-Gesetz, Änderung","335/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00335/index.shtml","XXIII","2","XXIII_335A"
-"335","17.10.2007","A","Kinderbetreuungsgeldgesetz, Änderung","33/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00033/index.shtml","XXIII","5","XXIII_33A"
-"336","11.10.2007","BRA","Bundesrechnungsabschluss für das Jahr 2005","III-1 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00001/index.shtml","XXIII","5","XXIII_III1dB"
-"337","11.10.2007","RV","Schuldenberatungs-Novelle - Schu-Nov","172 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00172/index.shtml","XXIII","5","XXIII_172dB"
-"338","11.10.2007","RV","Gesellschaftsrechts-Änderungsgesetz 2007 – GesRÄG 2007","171 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00171/index.shtml","XXIII","5","XXIII_171dB"
-"339","11.10.2007","RV","Bundesgesetz über die Abgeltung von bestimmten Unterrichts- und Erziehungstätigkeiten an Schulen sowie das Bundesgesetz über das Unterrichtspraktikum","137 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00137/index.shtml","XXIII","5","XXIII_137dB"
-"340","11.10.2007","A","Einkommensteuergesetz, Änderung","385/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00385/index.shtml","XXIII","2","XXIII_385A"
-"341","11.10.2007","A","Immissionsschutzgesetz-Luft, Änderung","276/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00276/index.shtml","XXIII","5","XXIII_276A"
-"342","11.10.2007","A","Einkommensteuergesetz, Änderung","183/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00183/index.shtml","XXIII","2","XXIII_183A"
-"343","10.10.2007","A","Rechnungshofgesetz, Änderung (zurückgezogen)","392/A und Zu 392/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00392/index.shtml","XXIII","5","XXIII_392AundZu392A"
-"344","10.10.2007","A","Bundesstraßen-Mautgesetz, Änderung","184/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00184/index.shtml","XXIII","2","XXIII_184A"
-"345","10.10.2007","A","Bundesstraßen-Mautgesetz, Änderung","64/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00064/index.shtml","XXIII","2","XXIII_64A"
-"346","27.09.2007","A","Einkommensteuergesetz 1988, Änderung","386/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00386/index.shtml","XXIII","2","XXIII_386A"
-"347","27.09.2007","A","Bundes-Verfassungsgesetz, Änderung","380/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00380/index.shtml","XXIII","2","XXIII_380A"
-"348","27.09.2007","A","Gehaltsgesetz 1956, Änderung","333/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00333/index.shtml","XXIII","2","XXIII_333A"
-"349","27.09.2007","A","Wahl des Nationalrates, Änderung","331/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00331/index.shtml","XXIII","2","XXIII_331A"
-"350","27.09.2007","A","Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Änderung","312/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00312/index.shtml","XXIII","2","XXIII_312A"
-"351","27.09.2007","A","Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Änderung","310/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00310/index.shtml","XXIII","2","XXIII_310A"
-"352","27.09.2007","A","Einkommensteuergesetz 1988, Änderung","264/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00264/index.shtml","XXIII","2","XXIII_264A"
-"353","27.09.2007","A","Immissionsschutzgesetz-Luft, Änderung (IG-L-Novelle 2006)","7/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00007/index.shtml","XXIII","5","XXIII_7A"
-"354","20.07.2007","RV","Wertpapieraufsichtsgesetz 2007 - WAG 2007","143 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00143/index.shtml","XXIII","5","XXIII_143dB"
-"355","20.07.2007","RV","Tiertransportgesetz - Erlassung; Tierschutzgesetz, Tierseuchengesetz, Änderung","142 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00142/index.shtml","XXIII","5","XXIII_142dB"
-"356","20.07.2007","RV","Arbeitszeitgesetz, Arbeitsruhegesetz u.a., Änderung","141 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00141/index.shtml","XXIII","5","XXIII_141dB"
-"357","20.07.2007","RV","Öffnungszeitengesetz 2003","140 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00140/index.shtml","XXIII","5","XXIII_140dB"
-"358","20.07.2007","RV","Privatfernsehgesetz, ORF-Gesetz u.a., Änderung","139 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00139/index.shtml","XXIII","5","XXIII_139dB"
-"359","20.07.2007","RV","Gefahrgutbeförderungsgesetz, Änderung (GGBG-Novelle 2007)","138 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00138/index.shtml","XXIII","5","XXIII_138dB"
-"360","20.07.2007","RV","Kraftfahrgesetz 1967, Änderung (28. KFG-Novelle)","136 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00136/index.shtml","XXIII","5","XXIII_136dB"
-"361","20.07.2007","RV","VAG-Novelle 2007","128 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00128/index.shtml","XXIII","5","XXIII_128dB"
-"362","20.07.2007","RV","Bundesvergabegesetz 2006","127 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00127/index.shtml","XXIII","5","XXIII_127dB"
-"363","20.07.2007","RV","Kraftfahrzeugsteuergesetz-Novelle 2007","96 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00096/index.shtml","XXIII","5","XXIII_96dB"
-"364","20.07.2007","RV","Marktordnungsgesetz 2007 - MOG 2007 und Agrarrechtsänderungsgesetz 2007","37 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00037/index.shtml","XXIII","5","XXIII_37dB"
-"365","20.07.2007","A","Dienstrechts-Novelle 2007","255/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00255/index.shtml","XXIII","5","XXIII_255A"
-"366","20.07.2007","A","Bundespflegegeldgesetz, Bundesfinanzgesetz u.a., Änderung","253/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00253/index.shtml","XXIII","5","XXIII_253A"
-"367","20.07.2007","A","Ausfuhrfinanzierungsförderungsgesetz, Änderung","252/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00252/index.shtml","XXIII","5","XXIII_252A"
-"368","20.07.2007","A","Pflege-Übergangsgesetz, Änderung","228/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00228/index.shtml","XXIII","5","XXIII_228A"
-"369","05.07.2007","A","Tierschutzgesetz, Änderung","134/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00134/index.shtml","XXIII","5","XXIII_134A"
-"370","04.07.2007","A","Bundespflegegeldgesetz, Änderung","246/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00246/index.shtml","XXIII","5","XXIII_246A"
-"371","21.06.2007","BUA","Anti-Doping-Bundesgesetz 2007","105 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00105/index.shtml","XXIII","5","XXIII_105dB"
-"372","21.06.2007","RV","Bundes-Verfassungsgesetz","94 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00094/index.shtml","XXIII","5","XXIII_94dB"
-"373","21.06.2007","RV","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung (SVÄG 2007)","93 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00093/index.shtml","XXIII","5","XXIII_93dB"
-"374","21.06.2007","RV","Forschungs- und Wirtschaftsförderungsrechtsnovelle 2007","92 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00092/index.shtml","XXIII","5","XXIII_92dB"
-"375","21.06.2007","RV","Bauarbeitenkoordinationsgesetz","91 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00091/index.shtml","XXIII","5","XXIII_91dB"
-"376","21.06.2007","RV","Errichtung des Klima- und Energiefonds - Klima- und Energiefondsgesetz (KLI.EN-FondsG)","90 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00090/index.shtml","XXIII","5","XXIII_90dB"
-"377","21.06.2007","RV","Abfallwirtschaftsgesetz 2002 (AWG-Novelle 2007)","89 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00089/index.shtml","XXIII","5","XXIII_89dB"
-"378","21.06.2007","RV","Wahlrechtsänderungsgesetz 2007","88 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00088/index.shtml","XXIII","5","XXIII_88dB"
-"379","21.06.2007","RV","Jugendwohlfahrtsgesetz-Novelle 2007","87 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00087/index.shtml","XXIII","5","XXIII_87dB"
-"380","21.06.2007","RV","Bundespflegegeldgesetz, Änderung","82 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00082/index.shtml","XXIII","5","XXIII_82dB"
-"381","21.06.2007","RV","Finanzstrafgesetz-Novelle 2007 (FinStrG-Novelle 2007)","81 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00081/index.shtml","XXIII","5","XXIII_81dB"
-"382","21.06.2007","RV","Verkehrsopfer-Entschädigungsgesetz; Kraftfahrrechts-Änderungsgesetz 2007 - KrÄG 2007","80 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00080/index.shtml","XXIII","5","XXIII_80dB"
-"383","21.06.2007","RV","(Hausbetreuungsgesetz - HBeG) Gewerbeordnung 1994","78 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00078/index.shtml","XXIII","5","XXIII_78dB"
-"384","21.06.2007","RV","Sozialrechts-Änderungsgesetz 2007 - SRÄG 2007","77 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00077/index.shtml","XXIII","5","XXIII_77dB"
-"385","21.06.2007","RV","Hochschülerinnen- und Hochschülerschaftsgesetz 1998","76 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00076/index.shtml","XXIII","5","XXIII_76dB"
-"386","21.06.2007","RV","Studienförderungsgesetz 1992","75 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00075/index.shtml","XXIII","5","XXIII_75dB"
-"387","21.06.2007","RV","Leistung eines österreichischen Beitrages zur vierten Wiederauffüllung des Globalen Umweltfazilität-Treuhandfonds","72 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00072/index.shtml","XXIII","5","XXIII_72dB"
-"388","21.06.2007","RV","Änderung des Bundes-Sportförderungsgesetzes 2005","66 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00066/index.shtml","XXIII","5","XXIII_66dB"
-"389","21.06.2007","RV","Bauarbeiter-Urlaubs- und Abfertigungsgesetz, Bauarbeiter-Schlechtwetterentschädigungsgesetz 1957, Änderung","52 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00052/index.shtml","XXIII","5","XXIII_52dB"
-"390","21.06.2007","RV","Bundesgesetz über die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der Europäischen Union (EU-JZG)","48 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00048/index.shtml","XXIII","5","XXIII_48dB"
-"391","21.06.2007","RV","Vermarktungsnormengesetz - VNG","38 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00038/index.shtml","XXIII","5","XXIII_38dB"
-"392","21.06.2007","A","Reisekosten-Novelle 2007 – RK-Novelle 2007","220/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00220/index.shtml","XXIII","5","XXIII_220A"
-"393","06.06.2007","RV","Bundes-Umwelthaftungsgesetz - B-UHG","95 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00095/index.shtml","XXIII","2","XXIII_95dB"
-"394","06.06.2007","A","Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Änderung","241/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00241/index.shtml","XXIII","2","XXIII_241A"
-"395","06.06.2007","A","monatliche Unterstützung für Frauen, die das 60. Lebensjahr vollendet haben, als Anerkennung für die Erziehung ihrer Kinder","31/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00031/index.shtml","XXIII","5","XXIII_31A"
-"396","05.06.2007","A","Bundes-Verfassungsgesetz, Nationalrats-Wahlordnung u.a., Änderung","212/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00212/index.shtml","XXIII","5","XXIII_212A"
-"397","05.06.2007","A","Nationalrats-Wahlordnung, Änderung","21/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00021/index.shtml","XXIII","5","XXIII_21A"
-"398","05.06.2007","A","Wählerevidenzgesetz, Bundes-Verfassungsgesetz u.a., Änderung","8/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00008/index.shtml","XXIII","5","XXIII_8A"
-"399","30.05.2007","A","Allgemeines bürgerliches Gesetzbuch, Änderung","46/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00046/index.shtml","XXIII","2","XXIII_46A"
-"400","24.05.2007","A","Bundes-Verfassungsgesetz, Änderung","221/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00221/index.shtml","XXIII","2","XXIII_221A"
-"401","24.05.2007","A","Bundes-Verfassungsgesetz, Änderung","204/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00204/index.shtml","XXIII","2","XXIII_204A"
-"402","24.05.2007","A","Bundes-Verfassungsgesetz, Änderung","203/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00203/index.shtml","XXIII","2","XXIII_203A"
-"403","24.05.2007","A","Umsatzsteuergesetz, Änderung","99/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00099/index.shtml","XXIII","2","XXIII_99A"
-"404","22.05.2007","A","Familienlastenausgleichsgesetz, Änderung","61/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00061/index.shtml","XXIII","2","XXIII_61A"
-"405","10.05.2007","BUA","Gesundheits- und Ernährungssicherheitsgesetz, Änderung","68 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00068/index.shtml","XXIII","5","XXIII_68dB"
-"406","10.05.2007","RV","Budgetbegleitgesetz 2007","43 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00043/index.shtml","XXIII","5","XXIII_43dB"
-"407","10.05.2007","RV","Bundesfinanzgesetz 2008 samt Anlagen","40 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00040/index.shtml","XXIII","5","XXIII_40dB"
-"408","10.05.2007","RV","Bundesfinanzgesetz 2007 samt Anlagen","39 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00039/index.shtml","XXIII","5","XXIII_39dB"
-"409","25.04.2007","A","über das Verbot von Streumunition und Streubomben","192/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00192/index.shtml","XXIII","2","XXIII_192A"
-"410","24.04.2007","A","Einkommensteuergesetz, Änderung","173/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00173/index.shtml","XXIII","2","XXIII_173A"
-"411","24.04.2007","A","Amnestie-, Rehabilitierungs- und Entschädigungsgesetz - (AREG)","151/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00151/index.shtml","XXIII","2","XXIII_151A"
-"412","13.04.2007","BUA","Konkursordnung, Ausgleichsordnung, Änderung","56 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00056/index.shtml","XXIII","5","XXIII_56dB"
-"413","13.04.2007","A","Abfallwirtschaftsgesetz, Änderung","161/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00161/index.shtml","XXIII","5","XXIII_161A"
-"414","13.04.2007","A","Entschädigungsfondsgesetz, Änderung","117/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00117/index.shtml","XXIII","5","XXIII_117A"
-"415","13.04.2007","A","Börsegesetz, Bankwesengesetz, Änderung","82/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00082/index.shtml","XXIII","5","XXIII_82A"
-"416","13.04.2007","A","Sonderrechnungslegungsgesetz - SRLG","81/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00081/index.shtml","XXIII","5","XXIII_81A"
-"417","13.04.2007","A","Produktpirateriegesetz 2004 (i.d.F. BGBl. I Nr. 56/2004)","37/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00037/index.shtml","XXIII","5","XXIII_37A"
-"418","29.03.2007","A","Erbschafts- und Schenkungssteuergesetz, Aufhebung","34/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00034/index.shtml","XXIII","2","XXIII_34A"
-"419","22.03.2007","RV","Katastrophenfondsgesetz 1996, Hochwasseropferentschädigungs- und Wiederaufbau-Gesetz 2005","25 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00025/index.shtml","XXIII","5","XXIII_25dB"
-"420","22.03.2007","RV","Gesetzliches Budgetprovisorium 2007","24 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00024/index.shtml","XXIII","5","XXIII_24dB"
-"421","22.03.2007","RV","Konsulargebührengesetz 1992; Änderung","11 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00011/index.shtml","XXIII","5","XXIII_11dB"
-"422","22.03.2007","A","Ökostromgesetz, Änderung","114/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00114/index.shtml","XXIII","5","XXIII_114A"
-"423","22.03.2007","A","Hochschülerinnen- und Hochschülerschaftsgesetz, Änderung","97/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00097/index.shtml","XXIII","5","XXIII_97A"
-"424","07.03.2007","A","Pflanzenschutzmittelgesetz, Änderung","77/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00077/index.shtml","XXIII","2","XXIII_77A"
-"425","16.02.2007","A","Bundesministeriengesetz, Änderung (Bundesministeriengesetz-Novelle 2007)","95/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00095/index.shtml","XXIII","5","XXIII_95A"
-"426","16.02.2007","A","Bundes-Verfassungsgesetz, Änderung","94/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00094/index.shtml","XXIII","5","XXIII_94A"
-"427","30.01.2007","A","Bundes-Behindertengleichstellungsgesetz, Behinderteneinstellungsgesetz u.a., Änderung","58/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00058/index.shtml","XXIII","2","XXIII_58A"
-"428","30.01.2007","A","Landwirtschaftsgesetz, Änderung","22/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00022/index.shtml","XXIII","2","XXIII_22A"
-"429","20.12.2006","RV","Sozialrechts-Änderungsgesetz 2007 – SRÄG 2007","12 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00012/index.shtml","XXIII","5","XXIII_12dB"
-"430","20.12.2006","A","Bundesfinanzgesetz, Änderung (7. BFG-Novelle 2006)","80/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00080/index.shtml","XXIII","5","XXIII_80A"
-"431","20.12.2006","A","Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Änderung","62/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00062/index.shtml","XXIII","5","XXIII_62A"
-"432","20.12.2006","A","3. Novelle zum APG","28/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00028/index.shtml","XXIII","5","XXIII_28A"
-"433","20.12.2006","A","Emissionszertifikategesetz, Änderung","18/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00018/index.shtml","XXIII","5","XXIII_18A"
-"434","15.12.2006","A","Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Änderung","65/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00065/index.shtml","XXIII","5","XXIII_65A"
-"435","15.12.2006","A","Heizkostenausgleichsfondsgesetz","35/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00035/index.shtml","XXIII","5","XXIII_35A"
-"436","15.12.2006","A","Bundespflegegeldgesetz, Änderung","30/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00030/index.shtml","XXIII","5","XXIII_30A"
-"437","14.12.2006","A","Fernsprechentgeltzuschussgesetz, Änderung","66/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00066/index.shtml","XXIII","2","XXIII_66A"
-"438","14.12.2006","A","Nationalrats-Wahlordnung 1992 - NRWO","45/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00045/index.shtml","XXIII","2","XXIII_45A"
-"439","14.12.2006","A","Bundes-Verfassungsgesetz, Geschäftsordnungsgesetz, Änderung","9/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00009/index.shtml","XXIII","2","XXIII_9A"
-"440","13.12.2006","RV","Besoldungs-Novelle 2007","1 d.B.","https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00001/index.shtml","XXIII","5","XXIII_1dB"
-"441","13.12.2006","A","2. Sozialrechts-Änderungsgesetz 2006 - 2. SRÄG 2006","27/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00027/index.shtml","XXIII","5","XXIII_27A"
-"442","13.12.2006","A","Pflege-Übergangsgesetz","25/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00025/index.shtml","XXIII","5","XXIII_25A"
-"443","13.12.2006","A","Olympia 2014-Ermächtigungsgesetz","16/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00016/index.shtml","XXIII","5","XXIII_16A"
-"444","28.11.2006","A","Allgemeines Sozialversicherungsgesetz, Änderung","20/A","https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00020/index.shtml","XXIII","2","XXIII_20A"
+web_date,type,desc_title,proposal_id,proposal_link,period,proposal_filename
+20.12.2008,RV,"BegrÃ¼ndung weiterer Vorbelastungen; Bundesfinanzgesetz, Ã„nderung",266 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00266/index.shtml,XXIII,XXIII_266dB
+21.10.2008,RV,"InterbankmarktstÃ¤rkungsgesetz - IBSG, FinanzmarktstabilitÃ¤tsgesetz - FinStaG; Ã–IAG-Gesetz, Bankwesengesetz u.a., Ã„nderung",682 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00682/index.shtml,XXIII,XXIII_682dB
+20.10.2008,EBR,"Einspruch des Bundesrates betr. Kriegsopferversorgungsgesetz, OpferfÃ¼rsorgegesetz u.a., Ã„nderung",681 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00681/index.shtml,XXIII,XXIII_681dB
+20.10.2008,EBR,"Einspruch des Bundesrates betr. Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",680 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00680/index.shtml,XXIII,XXIII_680dB
+20.10.2008,RV,Zweites Gewaltschutzgesetz,678 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00678/index.shtml,XXIII,XXIII_678dB
+10.10.2008,A,"Kriegsopferversorgungsgesetz, OpferfÃ¼rsorgegesetz u.a., Ã„nderung",905/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00905/index.shtml,XXIII,XXIII_905A
+10.10.2008,A,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",901/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00901/index.shtml,XXIII,XXIII_901A
+08.10.2008,RV,"Bundespflegegeldgesetz, Ã„nderung",677 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00677/index.shtml,XXIII,XXIII_677dB
+08.10.2008,A,"Umsatzsteuergesetz 1994, Ã„nderung",924/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00924/index.shtml,XXIII,XXIII_924A
+08.10.2008,A,"Einkommensteuergesetz 1988, Ã„nderung",915/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00915/index.shtml,XXIII,XXIII_915A
+08.10.2008,A,"Allgemeines Sozialversicherungsgesetz, Beamten-Kranken- und Unfallversicherungsgesetz u.a., Ã„nderung",906/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00906/index.shtml,XXIII,XXIII_906A
+08.10.2008,A,"Familienlastenausgleichsgesetz, Ã„nderung",900/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00900/index.shtml,XXIII,XXIII_900A
+08.10.2008,A,"UniversitÃ¤tsgesetz, Hochschulgesetz u.a., Ã„nderung",890/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00890/index.shtml,XXIII,XXIII_890A
+08.10.2008,A,Sozialrechts-Ã„nderungsgesetz 2008,889/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00889/index.shtml,XXIII,XXIII_889A
+08.10.2008,A,"BundesstraÃŸen-Mautgesetz, Ã„nderung",883/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00883/index.shtml,XXIII,XXIII_883A
+25.09.2008,A,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",916/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00916/index.shtml,XXIII,XXIII_916A
+25.09.2008,A,"Bundes-Verfassungsgesetz, Ã„nderung",907/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00907/index.shtml,XXIII,XXIII_907A
+25.09.2008,A,"Strafgesetzbuch, Ã„nderung",902/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00902/index.shtml,XXIII,XXIII_902A
+24.09.2008,A,"Arbeiterkammergesetz, Ã„nderung",917/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00917/index.shtml,XXIII,XXIII_917A
+24.09.2008,A,"Umsatzsteuergesetz, Ã„nderung",893/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00893/index.shtml,XXIII,XXIII_893A
+24.09.2008,A,"Preisgesetz, Preisauszeichnungsgesetz, Ã„nderung",892/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00892/index.shtml,XXIII,XXIII_892A
+24.09.2008,A,"Familienlastenausgleichsgesetz, Ã„nderung",888/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00888/index.shtml,XXIII,XXIII_888A
+24.09.2008,A,"StaatsbÃ¼rgerschaftsÃ¤nderungsgesetz, Ã„nderung",735/A und Zu 735/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00735/index.shtml,XXIII,XXIII_735AundZu735A
+24.09.2008,A,"Tilgungsgesetz, Ã„nderung",713/A und Zu 713/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00713/index.shtml,XXIII,XXIII_713AundZu713A
+12.09.2008,BRA,Bundesrechnungsabschluss fÃ¼r das Jahr 2007,III-161 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00161/index.shtml,XXIII,XXIII_III161dB
+12.09.2008,RV,VerÃ¤uÃŸerung von unbeweglichem BundesvermÃ¶gen,676 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00676/index.shtml,XXIII,XXIII_676dB
+12.09.2008,RV,"Gesundheits- und Sozialbereich-Beihilfengesetz, Ã„nderung (GSBG-Novelle 2008)",675 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00675/index.shtml,XXIII,XXIII_675dB
+12.09.2008,RV,"Privatfernsehgesetz, Privatradiogesetz, Ã„nderung",674 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00674/index.shtml,XXIII,XXIII_674dB
+12.09.2008,RV,"Zivildienstgesetz, Ã„nderung",673 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00673/index.shtml,XXIII,XXIII_673dB
+12.09.2008,GABR,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",672 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00672/index.shtml,XXIII,XXIII_672dB
+12.09.2008,GABR,Pflege-Verfassungsgesetz,671 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00671/index.shtml,XXIII,XXIII_671dB
+12.09.2008,RV,"StraÃŸenverkehrsordnung, Kraftfahrgesetz, Ã„nderung (22. StVO-Novelle)",670 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00670/index.shtml,XXIII,XXIII_670dB
+12.09.2008,RV,WehrrechtsÃ¤nderungsgesetz 2008 â€“ WRÃ„G 2008,669 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00669/index.shtml,XXIII,XXIII_669dB
+12.09.2008,RV,IFI-Beitragsgesetz 2008,668 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00668/index.shtml,XXIII,XXIII_668dB
+12.09.2008,A,"Einkommensteuergesetz 1988, Ã„nderung",925/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00925/index.shtml,XXIII,XXIII_925A
+12.09.2008,A,Steuerbonus fÃ¼r das Jahr 2008,923/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00923/index.shtml,XXIII,XXIII_923A
+12.09.2008,A,"MineralÃ¶lsteuergesetz, Ã„nderung",922/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00922/index.shtml,XXIII,XXIII_922A
+12.09.2008,A,"Familienlastenausgleichsgesetz, Ã„nderung",921/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00921/index.shtml,XXIII,XXIII_921A
+12.09.2008,A,"Finanzausgleichsgesetz 2008, Ã„nderung",920/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00920/index.shtml,XXIII,XXIII_920A
+12.09.2008,A,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",919/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00919/index.shtml,XXIII,XXIII_919A
+12.09.2008,A,Heizkostenausgleichsfondsgesetz,918/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00918/index.shtml,XXIII,XXIII_918A
+12.09.2008,A,"MineralÃ¶lsteuergesetz 1995, Ã„nderung",910/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00910/index.shtml,XXIII,XXIII_910A
+12.09.2008,A,"Asylgesetz, Ã„nderung",909/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00909/index.shtml,XXIII,XXIII_909A
+12.09.2008,A,"Niederlassungs- und Aufenthaltsgesetz - NAG, Ã„nderung",908/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00908/index.shtml,XXIII,XXIII_908A
+12.09.2008,A,Krankenkassen-Finanzierungs-Sicherungsgesetz,846/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00846/index.shtml,XXIII,XXIII_846A
+12.09.2008,A,"Sicherheitspolizeigesetz, Ã„nderung",844/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00844/index.shtml,XXIII,XXIII_844A
+12.09.2008,A,"Stiftungseingangssteuergesetz, Ã„nderung; Stiftungseingangssteuergesetz",842/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00842/index.shtml,XXIII,XXIII_842A
+12.09.2008,A,"Strafgesetzbuch, Ã„nderung",759/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00759/index.shtml,XXIII,XXIII_759A
+12.09.2008,A,"Strafgesetzbuch, Ã„nderung",757/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00757/index.shtml,XXIII,XXIII_757A
+12.09.2008,A,"Strafgesetzbuch, Ã„nderung",529/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00529/index.shtml,XXIII,XXIII_529A
+12.09.2008,A,Schaffung eines vierwÃ¶chigen Freistellungsanspruches fÃ¼r VÃ¤ter nach der Geburt ihres Kindes (Vatermonat),357/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00357/index.shtml,XXIII,XXIII_357A
+12.09.2008,A,"Allgemeines bÃ¼rgerliches Gesetzbuch, Ã„nderung",5/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00005/index.shtml,XXIII,XXIII_5A
+12.09.2008,A,"Zivilpakt; Allgemeines bÃ¼rgerliche Gesetzbuch, Mietrechtsgesetz u.a., Ã„nderung",3/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00003/index.shtml,XXIII,XXIII_3A
+25.07.2008,RV,"Lebensmittelgesetz, Lebensmittelsicherheits- und Verbraucherschutzgesetz, Ã„nderung",611 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00611/index.shtml,XXIII,XXIII_611dB
+25.07.2008,RV,"Tabakgesetz, Allgemeines Sozialversicherungsgesetz u.a., Ã„nderung",610 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00610/index.shtml,XXIII,XXIII_610dB
+25.07.2008,RV,Finanzprokuraturgesetz - ProkG,609 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00609/index.shtml,XXIII,XXIII_609dB
+25.07.2008,RV,"Schulunterrichtsgesetz, Ã„nderung",606 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00606/index.shtml,XXIII,XXIII_606dB
+25.07.2008,RV,"Arbeitszeitgesetz, Arbeitsruhegesetz, Ã„nderung",591 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00591/index.shtml,XXIII,XXIII_591dB
+25.07.2008,RV,"Suchtmittelgesetz - SMG, Gesundheits- und ErnÃ¤hrungssicherheitsgesetz â€“ GESG (SMG-Novelle 2008)",590 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00590/index.shtml,XXIII,XXIII_590dB
+25.07.2008,RV,ElektrizitÃ¤tswirtschafts- und -organisationsgesetz; Ã„nderung,589 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00589/index.shtml,XXIII,XXIII_589dB
+25.07.2008,RV,Krankenanstalten-Arbeitszeitgesetz; Ã„nderung,588 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00588/index.shtml,XXIII,XXIII_588dB
+25.07.2008,RV,"Bundesbehindertengesetz, Ã„nderung",587 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00587/index.shtml,XXIII,XXIII_587dB
+25.07.2008,RV,AbgabenÃ¤nderungsgesetz 2008,586 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00586/index.shtml,XXIII,XXIII_586dB
+25.07.2008,RV,Abgeltung von PrÃ¼fungstÃ¤tigkeiten im Bereich des Schulwesens mit Ausnahme des Hochschulwesens,579 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00579/index.shtml,XXIII,XXIII_579dB
+25.07.2008,RV,"BerufsreifeprÃ¼fung, Ã„nderung",577 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00577/index.shtml,XXIII,XXIII_577dB
+25.07.2008,RV,"Anti-Doping-Bundesgesetz, Arzneimittelgesetz u.a., Ã„nderung",561 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00561/index.shtml,XXIII,XXIII_561dB
+25.07.2008,RV,Bestimmungen auf dem Gebiet der Kraft-WÃ¤rme-Kopplung,554 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00554/index.shtml,XXIII,XXIII_554dB
+25.07.2008,RV,"Ã–kostromgesetz, Ã„nderung (2. Ã–kostromgesetz-Novelle 2008)",553 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00553/index.shtml,XXIII,XXIII_553dB
+25.07.2008,RV,"Schulorganisationsgesetz, Ã„nderung",548 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00548/index.shtml,XXIII,XXIII_548dB
+25.07.2008,A,"WÃ¤rme- und KÃ¤lteleitungsausbaugesetz; Energie-RegulierungsbehÃ¶rdengesetz, Ã„nderung",853/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00853/index.shtml,XXIII,XXIII_853A
+25.07.2008,A,"GlÃ¼cksspielgesetz, Ã„nderung",837/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00837/index.shtml,XXIII,XXIII_837A
+25.07.2008,A,"Ziviltechnikerkammergesetz, Ã„nderung",812/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00812/index.shtml,XXIII,XXIII_812A
+22.07.2008,RV,"HaftungsÃ¼bernahme fÃ¼r die Ausstellung ""Vincent van Gogh. Gezeichnete Bilder""",585 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00585/index.shtml,XXIII,XXIII_585dB
+22.07.2008,A,"Bundesgesetz,  mit dem die XXIII. Gesetzgebungsperiode des Nationalrates vorzeitig beendet wird",841/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00841/index.shtml,XXIII,XXIII_841A
+10.07.2008,A,Bundesgesetz zum Schutz und Erhalt der deutschen Sprache,885/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00885/index.shtml,XXIII,XXIII_885A
+10.07.2008,A,"Einkommensteuergesetz 1988, Ã„nderung",884/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00884/index.shtml,XXIII,XXIII_884A
+10.07.2008,A,"Bundesvergabegesetz, Ã„nderung",862/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00862/index.shtml,XXIII,XXIII_862A
+10.07.2008,A,"Bundespflegegeldgesetz, Ã„nderung",861/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00861/index.shtml,XXIII,XXIII_861A
+10.07.2008,A,"Allgemeines BÃ¼rgerliches Gesetzbuch, Ã„nderung",753/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00753/index.shtml,XXIII,XXIII_753A
+08.07.2008,RV,"Passgesetz, GebÃ¼hrengesetz u.a., Ã„nderung",616 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00616/index.shtml,XXIII,XXIII_616dB
+08.07.2008,RV,"Mediengesetz, Ã„nderung",615 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00615/index.shtml,XXIII,XXIII_615dB
+08.07.2008,A,"GeschÃ¤ftsordnungsgesetz, Ã„nderung",852/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00852/index.shtml,XXIII,XXIII_852A
+08.07.2008,A,"GeschÃ¤ftsordnungsgesetz, Ã„nderung",851/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00851/index.shtml,XXIII,XXIII_851A
+08.07.2008,A,zur KÃ¼rzung der BezÃ¼ge fÃ¼r eine lÃ¤ngerfristig deutlich unterdurchschnittliche Leistung der Bundesregierung,850/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00850/index.shtml,XXIII,XXIII_850A
+08.07.2008,A,"GeschÃ¤ftsordnungsgesetz, Ã„nderung",849/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00849/index.shtml,XXIII,XXIII_849A
+08.07.2008,A,"AusfuhrfÃ¶rderungsgesetz, Ã„nderung",847/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00847/index.shtml,XXIII,XXIII_847A
+08.07.2008,A,"Niederlassungs- und Aufenthaltsgesetz, Ã„nderung",845/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00845/index.shtml,XXIII,XXIII_845A
+08.07.2008,A,"Strafgesetzbuch, Ã„nderung",843/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00843/index.shtml,XXIII,XXIII_843A
+08.07.2008,A,"Strafgesetzbuch, Ã„nderung",816/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00816/index.shtml,XXIII,XXIII_816A
+08.07.2008,A,"Schulorganisationsgesetz, Ã„nderung",705/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00705/index.shtml,XXIII,XXIII_705A
+08.07.2008,A,"RÃ¼ckgabe von KunstgegenstÃ¤nden aus den Ã–sterreichischen Bundesmuseen und Sammlungen und das Gesetz vom 1. August 1895 Ã¼ber das gerichtliche Verfahren in bÃ¼rgerlichen Rechtsstreitigkeiten, Ã„nderung",643/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00643/index.shtml,XXIII,XXIII_643A
+08.07.2008,A,"Konsumentenschutzgesetz, Ã„nderung",499/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00499/index.shtml,XXIII,XXIII_499A
+08.07.2008,A,Mindestlohngesetz,337/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00337/index.shtml,XXIII,XXIII_337A
+08.07.2008,A,Beendigung der XXIII. Gesetzgebungsperiode des Nationalrates,262/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00262/index.shtml,XXIII,XXIII_262A
+08.07.2008,A,"Parteiengesetz, Klubfinanzierungsgesetz u.a., Ã„nderung",60/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00060/index.shtml,XXIII,XXIII_60A
+08.07.2008,A,"Schulorganisationsgesetz, Ã„nderung",32/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00032/index.shtml,XXIII,XXIII_32A
+08.07.2008,A,"Parteiengesetz, Ã„nderung",15/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00015/index.shtml,XXIII,XXIII_15A
+08.07.2008,A,"Schulorganisationsgesetz, Ã„nderung",2/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00002/index.shtml,XXIII,XXIII_2A
+08.07.2008,A,"UniversitÃ¤tsgesetz, Ã„nderung",1/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00001/index.shtml,XXIII,XXIII_1A
+07.07.2008,RV,Struktur-Ã„nderungsgesetz fÃ¼r die Krankenversicherung und die Organisation der Sozialversicherung â€“ SV-StrÃ„G,605 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00605/index.shtml,XXIII,XXIII_605dB
+06.07.2008,BUA,"Normverbrauchsabgabegesetz, Ã„nderung",180 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00180/index.shtml,XXIII,XXIII_180dB
+06.07.2008,A,"AusfuhrfÃ¶rderungsgesetz, Ã„nderung",251/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00251/index.shtml,XXIII,XXIII_251A
+03.07.2008,A,"FÃ¶rderung von Kunst und kultureller Vielfalt; KunstfÃ¶rderungsgesetz, Aufhebung",336/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00336/index.shtml,XXIII,XXIII_336A
+03.07.2008,A,"Ã–ffentliches Personennah- und Regionalverkehrsgesetz, Ã„nderung; BestellerfÃ¶rderung des Bundes",59/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00059/index.shtml,XXIII,XXIII_59A
+02.07.2008,A,"UniversitÃ¤tsgesetz 2002, Ã„nderung",587/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00587/index.shtml,XXIII,XXIII_587A
+02.07.2008,A,"UniversitÃ¤tsgesetz, Ã„nderung",495/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00495/index.shtml,XXIII,XXIII_495A
+02.07.2008,A,"UniversitÃ¤tsgesetz, Ã„nderung",494/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00494/index.shtml,XXIII,XXIII_494A
+19.06.2008,BUA,"ReisegebÃ¼hrenvorschrift 1955, Ã„nderung",613 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00613/index.shtml,XXIII,XXIII_613dB
+19.06.2008,BUA,"Rechtsanwaltstarifgesetz, Ã„nderung",583 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00583/index.shtml,XXIII,XXIII_583dB
+19.06.2008,BUA,"Bundesgesetz Ã¼ber die BeschÃ¤ftigung von Kindern und Jugendlichen, Ã„nderung",576 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00576/index.shtml,XXIII,XXIII_576dB
+19.06.2008,RV,"Justizbetreuungsagentur-Gesetz â€“ JBA-G; Gesundheits- und Krankenpflegegesetz, MTD-Gesetz, Ã„nderung",555 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00555/index.shtml,XXIII,XXIII_555dB
+19.06.2008,RV,Musiktherapiegesetz - MuthG,552 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00552/index.shtml,XXIII,XXIII_552dB
+19.06.2008,RV,Schenkungsmeldegesetz 2008,549 d.B. und Zu 549 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00549/index.shtml,XXIII,XXIII_549dBundZu549dB
+19.06.2008,RV,OeAD-Gesetz â€“ OeADG,544 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00544/index.shtml,XXIII,XXIII_544dB
+19.06.2008,RV,Sozialversicherungs-Ã„nderungsgesetz 2008 - SVÃ„G 2008,543 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00543/index.shtml,XXIII,XXIII_543dB
+19.06.2008,RV,Grundbuchs-Novelle 2008 â€“ GB-Nov 2008,542 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00542/index.shtml,XXIII,XXIII_542dB
+19.06.2008,RV,"Bundes-Gleichbehandlungsgesetz, Ã„nderung",541 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00541/index.shtml,XXIII,XXIII_541dB
+19.06.2008,RV,"EWR-Psychotherapiegesetz, Ã„nderung (EWR-PthG-Novelle 2008)",540 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00540/index.shtml,XXIII,XXIII_540dB
+19.06.2008,RV,"EWR-Psychologengesetz, Ã„nderung (EWR-PG-Novelle 2008)",539 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00539/index.shtml,XXIII,XXIII_539dB
+19.06.2008,RV,Zwischenstaatlicher Luftverkehr,538 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00538/index.shtml,XXIII,XXIII_538dB
+19.06.2008,RV,"Luftfahrtgesetz, Ã„nderung",537 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00537/index.shtml,XXIII,XXIII_537dB
+19.06.2008,RV,"Arbeitsmarktpolitik-Finanzierungsgesetz, Ã„nderung",524 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00524/index.shtml,XXIII,XXIII_524dB
+19.06.2008,RV,AuftraggeberInnen-Haftungsgesetz,523 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00523/index.shtml,XXIII,XXIII_523dB
+19.06.2008,RV,"Berufsausbildungsgesetz, Arbeitsmarktservicegesetz u.a., Ã„nderung",505 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00505/index.shtml,XXIII,XXIII_505dB
+19.06.2008,RV,"Gleichbehandlungsgesetz, Bundesgesetz Ã¼ber die Gleichbehandlungskommission und die Gleichbehandlungsanwaltschaft, Ã„nderung",415 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00415/index.shtml,XXIII,XXIII_415dB
+19.06.2008,A,"Landeslehrer-Dienstrechtsgesetz, Ã„nderung",800/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00800/index.shtml,XXIII,XXIII_800A
+19.06.2008,A,"Landeslehrer-Dienstrechtsgesetz, Ã„nderung",799/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00799/index.shtml,XXIII,XXIII_799A
+19.06.2008,A,"Beamten-Dienstrechtsgesetz 1979, Ã„nderung",798/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00798/index.shtml,XXIII,XXIII_798A
+19.06.2008,A,"Beamten-Dienstrechtsgesetz 1979, Ã„nderung",797/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00797/index.shtml,XXIII,XXIII_797A
+19.06.2008,A,"EntschÃ¤digungsfondsgesetz, Ã„nderung",589/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00589/index.shtml,XXIII,XXIII_589A
+19.06.2008,A,"Nachhilfeunterrichtsgesetz, Ã„nderung",301/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00301/index.shtml,XXIII,XXIII_301A
+19.06.2008,A,"Volksgruppengesetz, Ã„nderung",263/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00263/index.shtml,XXIII,XXIII_263A
+17.06.2008,A,"Allgemeines Sozialversicherungsgesetz, Gewerbliche Sozialversicherungsgesetz u.a., Ã„nderung",599/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00599/index.shtml,XXIII,XXIII_599A
+17.06.2008,A,"Bundespflegegeldgesetz, Ã„nderung",450/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00450/index.shtml,XXIII,XXIII_450A
+07.06.2008,A,"GeschÃ¤ftsordnungsgesetz, Ã„nderung",824/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00824/index.shtml,XXIII,XXIII_824A
+07.06.2008,A,"ReisegebÃ¼hrenvorschrift, Ã„nderung",802/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00802/index.shtml,XXIII,XXIII_802A
+07.06.2008,A,"Bundesverfassungsgesetz Ã¼ber die Begrenzung von BezÃ¼gen Ã¶ffentlicher FunktionÃ¤re, Ã„nderung",786/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00786/index.shtml,XXIII,XXIII_786A
+06.06.2008,A,"EntschÃ¤digungsfondsgesetz, Ã„nderung",588/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00588/index.shtml,XXIII,XXIII_588A
+05.06.2008,A,"Arbeitsmarktpolitik-Finanzierungsgesetz, Ã„nderung",714/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00714/index.shtml,XXIII,XXIII_714A
+05.06.2008,A,"GeschÃ¤ftsordnungsgesetz 1975, Ã„nderung",682/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00682/index.shtml,XXIII,XXIII_682A
+05.06.2008,A,"Arbeitslosenversicherungsgesetz, Ã„nderung",621/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00621/index.shtml,XXIII,XXIII_621A
+04.06.2008,A,"Einkommensteuergesetz 1988, Ã„nderung",683/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00683/index.shtml,XXIII,XXIII_683A
+04.06.2008,A,"Einkommensteuergesetz, Ã„nderung",527/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00527/index.shtml,XXIII,XXIII_527A
+29.05.2008,A,"Lebensmittelsicherheits- und Verbraucherschutzgesetzes, Ã„nderung",209/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00209/index.shtml,XXIII,XXIII_209A
+27.05.2008,A,"Arbeitslosenversicherungsgesetz, Ã„nderung",6/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00006/index.shtml,XXIII,XXIII_6A
+27.05.2008,A,"Arbeitslosenversicherungsgesetz, Ã„nderung",4/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00004/index.shtml,XXIII,XXIII_4A
+21.05.2008,BUA,"Referenzmengen-Zuteilungs-Verordnung 2006, Ã„nderung",551 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00551/index.shtml,XXIII,XXIII_551dB
+21.05.2008,RV,"Hochschul-Studienberechtigungsgesetz;  Hochschulgesetz, Privatschulgesetz, Ã„nderung",522 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00522/index.shtml,XXIII,XXIII_522dB
+21.05.2008,RV,"Medizinproduktegesetz, Gesundheit Ã–sterreich GmbH, Ã„nderung",504 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00504/index.shtml,XXIII,XXIII_504dB
+21.05.2008,RV,"Epidemiegesetz, Ã„nderung",503 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00503/index.shtml,XXIII,XXIII_503dB
+21.05.2008,RV,"Apothekengesetz, Apothekerkammergesetz, Ã„nderung",502 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00502/index.shtml,XXIII,XXIII_502dB
+21.05.2008,RV,"Verkehrs-Arbeitsinspektionsgesetz â€“ VAIG, Ã„nderung",451 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00451/index.shtml,XXIII,XXIII_451dB
+21.05.2008,RV,"Ã–kostromgesetz, Ã„nderung (Ã–kostromgesetz-Novelle 2008)",438 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00438/index.shtml,XXIII,XXIII_438dB
+21.05.2008,RV,"Schifffahrtsgesetz, Ã„nderung",326 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00326/index.shtml,XXIII,XXIII_326dB
+21.05.2008,A,"Umsatzsteuergesetz 1994, Ã„nderung",761/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00761/index.shtml,XXIII,XXIII_761A
+21.05.2008,A,"Medizinischer Masseur- und Heilmasseurgesetz, Ã„nderung",721/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00721/index.shtml,XXIII,XXIII_721A
+21.05.2008,A,"UmweltfÃ¶rderungsgesetz, Ã„nderung",656/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00656/index.shtml,XXIII,XXIII_656A
+21.05.2008,A,"Marktordnungsgesetz, Marktordnungs-Ãœberleitungsgesetz, Ã„nderung",483/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00483/index.shtml,XXIII,XXIII_483A
+08.05.2008,A,"RegisterzÃ¤hlungsgesetz, Ã„nderung",762/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00762/index.shtml,XXIII,XXIII_762A
+08.05.2008,A,"Tilgungsgesetz, Ã„nderung",758/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00758/index.shtml,XXIII,XXIII_758A
+07.05.2008,A,"Bundes-Verfassungsgesetz, Ã„nderung; Instandsetzung und FÃ¼rsorge jÃ¼discher FriedhÃ¶fe",639/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00639/index.shtml,XXIII,XXIII_639A
+07.05.2008,A,"Beamten-Dienstrechtsgesetz 1979, Ã„nderung",635/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00635/index.shtml,XXIII,XXIII_635A
+07.05.2008,A,"Verfahrensordnung fÃ¼r parlamentarische UntersuchungsausschÃ¼sse, Ã„nderung",634/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00634/index.shtml,XXIII,XXIII_634A
+07.05.2008,A,"GebÃ¼hrengesetz, Ã„nderung",625/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00625/index.shtml,XXIII,XXIII_625A
+07.05.2008,A,"GeschÃ¤ftsordnungsgesetz 1975, Ã„nderung",610/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00610/index.shtml,XXIII,XXIII_610A
+07.05.2008,A,"Bundes-Verfassungsgesetz, Ã„nderung",604/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00604/index.shtml,XXIII,XXIII_604A
+07.05.2008,A,"GeschÃ¤ftsordnungsgesetz 1975, Ã„nderung",603/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00603/index.shtml,XXIII,XXIII_603A
+24.04.2008,BUA,"Versicherungsaufsichtsgesetz, Ã„nderung",515 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00515/index.shtml,XXIII,XXIII_515dB
+24.04.2008,RV,"Katastrophenfondsgesetz, Finanzausgleichsgesetz, Ã„nderung",479 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00479/index.shtml,XXIII,XXIII_479dB
+24.04.2008,RV,"Behinderteneinstellungsgesetz, Bundes-Behindertengleichstellungsgesetz, Ã„nderung",477 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00477/index.shtml,XXIII,XXIII_477dB
+24.04.2008,RV,Unternehmensrechts-Ã„nderungsgesetz 2008 â€“ URÃ„G 2008,467 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00467/index.shtml,XXIII,XXIII_467dB
+24.04.2008,RV,FeilbietungsrechtsÃ¤nderungsgesetz â€“ FRÃ„G,466 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00466/index.shtml,XXIII,XXIII_466dB
+24.04.2008,RV,70. Jahrestag des Einmarsches der Truppen des nationalsozialistischen Deutschen Reiches in Ã–sterreich (Erinnerungszuwendung),465 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00465/index.shtml,XXIII,XXIII_465dB
+24.04.2008,RV,"Investmentfondsgesetz, Immobilien-Investmentfondsgesetz u.a., Ã„nderung",452 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00452/index.shtml,XXIII,XXIII_452dB
+24.04.2008,A,"Einkommensteuergesetz, EU-Quellensteuergesetz u.a., Ã„nderung",674/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00674/index.shtml,XXIII,XXIII_674A
+24.04.2008,A,"KonsulargebÃ¼hrengesetz, Ã„nderung",652/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00652/index.shtml,XXIII,XXIII_652A
+10.04.2008,A,"Volksabstimmungsgesetz, Ã„nderung",704/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00704/index.shtml,XXIII,XXIII_704A
+10.04.2008,A,"UniversitÃ¤tsgesetz,  Hochschulgesetz, Ã„nderung",695/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00695/index.shtml,XXIII,XXIII_695A
+10.04.2008,A,"Parteiengesetz, Ã„nderung",694/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00694/index.shtml,XXIII,XXIII_694A
+10.04.2008,A,"OpferfÃ¼rsorgegesetz, Ã„nderung",556/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00556/index.shtml,XXIII,XXIII_556A
+10.04.2008,A,"Allgemeines Sozialversicherungsgesetz, Ã„nderung",555/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00555/index.shtml,XXIII,XXIII_555A
+09.04.2008,A,"Bundesverfassungsgesetz, Ã„nderung",394/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00394/index.shtml,XXIII,XXIII_394A
+02.04.2008,A,"Behinderteneinstellungsgesetz, Ã„nderung",512/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00512/index.shtml,XXIII,XXIII_512A
+28.03.2008,BUA,"Arzneimittelgesetz, Arzneiwareneinfuhrgesetz, Ã„nderung",482 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00482/index.shtml,XXIII,XXIII_482dB
+28.03.2008,RV,"Sicherstellung der Realisierung des Erdgaspipelineprojekts ""Nabucco""",437 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00437/index.shtml,XXIII,XXIII_437dB
+28.03.2008,RV,"ErdÃ¶l-Bevorratungsgesetz, Meldegesetz, Ã„nderung",436 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00436/index.shtml,XXIII,XXIII_436dB
+28.03.2008,RV,Gesundheitsberufe-RechtsÃ¤nderungsgesetz 2007,435 d.B. und Zu 435 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00435/index.shtml,XXIII,XXIII_435dBundZu435dB
+28.03.2008,RV,"Hebammengesetz, ZahnÃ¤rztegesetz",433 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00433/index.shtml,XXIII,XXIII_433dB
+28.03.2008,RV,BautrÃ¤gervertragsgesetz,432 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00432/index.shtml,XXIII,XXIII_432dB
+28.03.2008,RV,"KÃ¼nstler-Sozialversicherungsfondsgesetz, Ã„nderung",414 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00414/index.shtml,XXIII,XXIII_414dB
+28.03.2008,RV,"Abfallwirtschaftsgesetz, Ã„nderung (AWG-Novelle Batterien)",327 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00327/index.shtml,XXIII,XXIII_327dB
+28.03.2008,A,"Mietrechtliches Inflationslinderungsgesetz, Ã„nderung",622/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00622/index.shtml,XXIII,XXIII_622A
+27.03.2008,A,"Grundrechtsbeschwerde, Ã„nderung",410/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00410/index.shtml,XXIII,XXIII_410A
+27.03.2008,A,"NamensrechtsÃ¤nderungsgesetz, Ã„nderung",334/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00334/index.shtml,XXIII,XXIII_334A
+13.03.2008,A,"Exekutionsordnung, Ã„nderung",654/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00654/index.shtml,XXIII,XXIII_654A
+11.03.2008,A,"Mutterschutzgesetz, Ã„nderung",631/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00631/index.shtml,XXIII,XXIII_631A
+11.03.2008,A,"GeschÃ¤ftsordnungsgesetz 1975, Ã„nderung",586/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00586/index.shtml,XXIII,XXIII_586A
+11.03.2008,A,"Versammlungsgesetz, Ã„nderung",583/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00583/index.shtml,XXIII,XXIII_583A
+11.03.2008,A,"Strafgesetzbuch, Ã„nderung",565/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00565/index.shtml,XXIII,XXIII_565A
+11.03.2008,A,"Soziale Absicherung von KÃ¼nstlerinnen und KÃ¼nstlern; KÃ¼nstler-Sozialversicherungsfondsgesetz, Aufhebung",17/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00017/index.shtml,XXIII,XXIII_17A
+04.03.2008,A,"Familienlastenausgleichsgesetz, Ã„nderung",484/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00484/index.shtml,XXIII,XXIII_484A
+04.03.2008,A,"Familienlastenausgleichsgesetz, Ã„nderung",474/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00474/index.shtml,XXIII,XXIII_474A
+03.03.2008,A,"Allgemeines Sozialversicherungsgesetz, Ã„nderung",607/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00607/index.shtml,XXIII,XXIII_607A
+03.03.2008,A,"Mietrechtliches Inflationslinderungsgesetz, Ã„nderung",606/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00606/index.shtml,XXIII,XXIII_606A
+27.02.2008,A,"Bundes-Verfassungsgesetz, Rechnungshofgesetz, Ã„nderung",377/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00377/index.shtml,XXIII,XXIII_377A
+27.02.2008,A,"Bundes-Verfassungsgesetz, Rechnungshofgesetz, Ã„nderung",376/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00376/index.shtml,XXIII,XXIII_376A
+27.02.2008,A,"WohnungsgemeinnÃ¼tzigkeitsgesetz, Ã„nderung",375/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00375/index.shtml,XXIII,XXIII_375A
+14.02.2008,BUA,"Ã–kostromgesetz-Novelle 2008; Einkommensteuergesetz 1988, Ã„nderung",442 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00442/index.shtml,XXIII,XXIII_442dB
+14.02.2008,RV,Ã–kologisierungsgesetz 2007 (Ã–koG 2007),406 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00406/index.shtml,XXIII,XXIII_406dB
+14.02.2008,RV,StudienfÃ¶rderungsgesetz 1992,405 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00405/index.shtml,XXIII,XXIII_405dB
+14.02.2008,RV,"Vereinsgesetz, Ã„nderung",263 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00263/index.shtml,XXIII,XXIII_263dB
+14.02.2008,A,"Gewerbeordnung, Ã„nderung",549/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00549/index.shtml,XXIII,XXIII_549A
+14.02.2008,A,Pflege-Verfassungsgesetz,547/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00547/index.shtml,XXIII,XXIII_547A
+14.02.2008,A,"Parlamentsmitarbeitergesetz, Ã„nderung",489/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00489/index.shtml,XXIII,XXIII_489A
+31.01.2008,A,"Bundes-Verfassungsgesetz (B-VG), Ã„nderung",592/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00592/index.shtml,XXIII,XXIII_592A
+31.01.2008,A,"Bilanzbuchhaltungsgesetz, Ã„nderung",584/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00584/index.shtml,XXIII,XXIII_584A
+31.01.2008,A,"Normverbrauchsabgabegesetz, Ã„nderung",578/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00578/index.shtml,XXIII,XXIII_578A
+31.01.2008,A,"Sicherheitspolizeigesetz, Ã„nderung",570/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00570/index.shtml,XXIII,XXIII_570A
+31.01.2008,A,"Bundes-Verfassungsgesetz (B-VG), Ã„nderung",542/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00542/index.shtml,XXIII,XXIII_542A
+31.01.2008,A,"Futtermittelgesetz, Ã„nderung",478/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00478/index.shtml,XXIII,XXIII_478A
+24.01.2008,A,"Einkommensteuergesetz, Ã„nderung",541/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00541/index.shtml,XXIII,XXIII_541A
+24.01.2008,A,"Bleiberechtsgesetz, Ã„nderung",273/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00273/index.shtml,XXIII,XXIII_273A
+24.01.2008,A,"Waffengesetz, Ã„nderung",68/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00068/index.shtml,XXIII,XXIII_68A
+16.01.2008,A,"Bundes-Verfassungsgesetz (B-VG), Ã„nderung",560/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00560/index.shtml,XXIII,XXIII_560A
+07.01.2008,RV,"Signaturgesetz, Ziviltechnikergesetz u.a., Ã„nderung",293 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00293/index.shtml,XXIII,XXIII_293dB
+07.01.2008,RV,"E-Government-Gesetz, Ã„nderung  (E-GovG-Novelle 2007)",290 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00290/index.shtml,XXIII,XXIII_290dB
+20.12.2007,BUA,"Auslandseinsatzgesetz 2001, MilitÃ¤rbefugnisgesetz, Ã„nderung",400 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00400/index.shtml,XXIII,XXIII_400dB
+20.12.2007,BUA,"GebÃ¼hrengesetz 1957, Abgabenverwaltungsorganisationsgesetz u.a., Ã„nderung",392 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00392/index.shtml,XXIII,XXIII_392dB
+20.12.2007,BUA,"Arbeiterkammergesetz 1992, Ã„nderung",360 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00360/index.shtml,XXIII,XXIII_360dB
+20.12.2007,BUA,"AuÃŸenhandelsgesetz, Ã„nderung",336 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00336/index.shtml,XXIII,XXIII_336dB
+20.12.2007,BUA,"Konsumentenschutzgesetz, Ã„nderung",321 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00321/index.shtml,XXIII,XXIII_321dB
+20.12.2007,RV,"Bankwesengesetz, Sparkassengesetz u.a., Ã„nderung",313 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00313/index.shtml,XXIII,XXIII_313dB
+20.12.2007,RV,"Schulorganisationsgesetz, Ã„nderung",307 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00307/index.shtml,XXIII,XXIII_307dB
+20.12.2007,RV,BIFIE-Gesetz 2008,306 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00306/index.shtml,XXIII,XXIII_306dB
+20.12.2007,RV,"Kraftfahrgesetz, Ã„nderung (29. KFG-Novelle)",305 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00305/index.shtml,XXIII,XXIII_305dB
+20.12.2007,RV,"Kriegsopferversorgungsgesetz, OpferfÃ¼rsorgegesetz u.a., Ã„nderung",304 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00304/index.shtml,XXIII,XXIII_304dB
+20.12.2007,RV,Berufsrechts-Ã„nderungsgesetz 2008,303 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00303/index.shtml,XXIII,XXIII_303dB
+20.12.2007,RV,StrafrechtsÃ¤nderungsgesetz 2008,302 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00302/index.shtml,XXIII,XXIII_302dB
+20.12.2007,RV,SMG-Novelle 2007,301 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00301/index.shtml,XXIII,XXIII_301dB
+20.12.2007,RV,"Betriebliches Mitarbeitervorsorgegesetz, Einkommensteuergesetz u.a., Ã„nderung",300 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00300/index.shtml,XXIII,XXIII_300dB
+20.12.2007,RV,Strafprozessreformbegleitgesetz II,299 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00299/index.shtml,XXIII,XXIII_299dB
+20.12.2007,RV,Exekutionsordnungs-Novelle 2008 â€“ EO-Nov. 2008,295 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00295/index.shtml,XXIII,XXIII_295dB
+20.12.2007,RV,"Finanzausgleichsgesetz; Zweckzuschussgesetz, Katastrophenfondsgesetz u.a., Ã„nderung",289 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00289/index.shtml,XXIII,XXIII_289dB
+20.12.2007,RV,"Bilanzbuchhaltungsgesetz, Ã„nderung",288 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00288/index.shtml,XXIII,XXIII_288dB
+20.12.2007,RV,"Ziviltechnikergesetz, Ã„nderung",287 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00287/index.shtml,XXIII,XXIII_287dB
+20.12.2007,RV,"Bankwesengesetz, BÃ¶rsegesetz u.a., Ã„nderung",286 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00286/index.shtml,XXIII,XXIII_286dB
+20.12.2007,RV,Gewerbeordnung; Ã„nderung,283 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00283/index.shtml,XXIII,XXIII_283dB
+20.12.2007,RV,"Schulzeitgesetz, Ã„nderung",282 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00282/index.shtml,XXIII,XXIII_282dB
+20.12.2007,RV,"Schulunterrichtsgesetz, Ã„nderung",281 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00281/index.shtml,XXIII,XXIII_281dB
+20.12.2007,RV,"Flughafen-Bodenabfertigungsgesetz, Ã„nderung",280 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00280/index.shtml,XXIII,XXIII_280dB
+20.12.2007,RV,"Wirtschaftstreuhandberufsgesetz, Ã„nderung",279 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00279/index.shtml,XXIII,XXIII_279dB
+20.12.2007,RV,"Altlastensanierungsgesetz, Ã„nderung (ALSAG-Novelle 2008)",271 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00271/index.shtml,XXIII,XXIII_271dB
+20.12.2007,RV,Abgabensicherungsgesetz 2007,270 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00270/index.shtml,XXIII,XXIII_270dB
+20.12.2007,RV,Mittelstandsfinanzierungsgesellschaften-Gesetz 2007 (MiFiG-Gesetz 2007),269 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00269/index.shtml,XXIII,XXIII_269dB
+20.12.2007,RV,Bundesfinanzgesetz 2008,262 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00262/index.shtml,XXIII,XXIII_262dB
+20.12.2007,RV,"UmweltfÃ¶rderungsgesetz, Ã„nderung",260 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00260/index.shtml,XXIII,XXIII_260dB
+20.12.2007,RV,"Bildungsdokumentationsgesetz, Ã„nderung",259 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00259/index.shtml,XXIII,XXIII_259dB
+20.12.2007,RV,Rotkreuzgesetz - RKG,233 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00233/index.shtml,XXIII,XXIII_233dB
+20.12.2007,RV,Bundesgesetz Ã¼ber das Verbot von Streumunition,232 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00232/index.shtml,XXIII,XXIII_232dB
+20.12.2007,RV,"FÃ¼hrerscheingesetz, Ã„nderung (11. FÃ¼hrerscheingesetz-Novelle)",230 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00230/index.shtml,XXIII,XXIII_230dB
+20.12.2007,RV,"Patentanwaltsgesetz, Ã„nderung",206 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00206/index.shtml,XXIII,XXIII_206dB
+20.12.2007,RV,"Bundeshaushaltsgesetz, Ã„nderung",204 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00204/index.shtml,XXIII,XXIII_204dB
+20.12.2007,RV,"Bundes-Verfassungsgesetz, Bundeshaushaltsgesetz, Ã„nderung",203 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00203/index.shtml,XXIII,XXIII_203dB
+20.12.2007,RV,"Wehrgesetz 2001, Heeresdisziplinargesetz 2002, HeeresgebÃ¼hrengesetz 2001 und MilitÃ¤rauszeichnungsgesetz 2002",65 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00065/index.shtml,XXIII,XXIII_65dB
+20.12.2007,A,"Schulunterrichtsgesetz, Ã„nderung",464/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00464/index.shtml,XXIII,XXIII_464A
+19.12.2007,BUA,Asylgerichtshof-Einrichtungsgesetz,371 d.B. und Zu 371 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00371/index.shtml,XXIII,XXIII_371dBundZu371dB
+19.12.2007,BUA,"Wachebediensteten-Hilfeleistungsgesetz, Ã„nderung",368 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00368/index.shtml,XXIII,XXIII_368dB
+19.12.2007,BUA,"Vermessungsgesetz, Ã„nderung",363 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00363/index.shtml,XXIII,XXIII_363dB
+19.12.2007,BUA,"Pensionsgesetz 1965, Bundesbahn-Pensionsgesetz, Ã„nderung",353 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00353/index.shtml,XXIII,XXIII_353dB
+19.12.2007,RV,"Bundes-Verfassungsgesetz, Ã„nderung; Erstes Bundesverfassungsrechtsbereinigungsgesetz",314 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00314/index.shtml,XXIII,XXIII_314dB
+19.12.2007,RV,"Arbeitslosenversicherungsgesetz, Arbeitsmarktpolitik-Finanzierungsgesetz u.a., Ã„nderung",298 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00298/index.shtml,XXIII,XXIII_298dB
+19.12.2007,RV,Bundesgesetz zur Anpassung von Rechtsvorschriften an die Vereinbarung gemÃ¤ÃŸ Art. 15a B-VG Ã¼ber die Organisation und Finanzierung des Gesundheitswesens fÃ¼r die Jahre 2008 bis 2013,297 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00297/index.shtml,XXIII,XXIII_297dB
+19.12.2007,RV,2. Dienstrechts-Novelle 2007,296 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00296/index.shtml,XXIII,XXIII_296dB
+19.12.2007,RV,Verwaltungsverfahrens- und ZustellrechtsÃ¤nderungsgesetz 2007,294 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00294/index.shtml,XXIII,XXIII_294dB
+19.12.2007,RV,VeterinÃ¤rrechtsÃ¤nderungsgesetz 2007,292 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00292/index.shtml,XXIII,XXIII_292dB
+19.12.2007,RV,"Tierschutzgesetz, Ã„nderung",291 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00291/index.shtml,XXIII,XXIII_291dB
+19.12.2007,RV,"Informationsmanagement - Gesundheitstelematikgesetz, Ã„nderung",284 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00284/index.shtml,XXIII,XXIII_284dB
+19.12.2007,RV,"Sicherheitspolizeigesetz, Grenzkontrollgesetz, u.a.; Ã„nderung",272 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00272/index.shtml,XXIII,XXIII_272dB
+19.12.2007,RV,"Bundesfinanzgesetz, Ã„nderung (BFG-Novelle 2008)",268 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00268/index.shtml,XXIII,XXIII_268dB
+19.12.2007,RV,BudgetÃ¼berschreitungsgesetz 2007 - BÃœG 2007,267 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00267/index.shtml,XXIII,XXIII_267dB
+19.12.2007,RV,"Gewebesicherheitsgesetz; Arzneimittelgesetz, Fortpflanzungsmedizingesetz u.a., Ã„nderung",261 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00261/index.shtml,XXIII,XXIII_261dB
+19.12.2007,RV,Sicherheitspolizeigesetz,158 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00158/index.shtml,XXIII,XXIII_158dB
+19.12.2007,RV,"EU-Verwaltungsstrafvollstreckungsgesetz â€“ EU-VStVG, Verwaltungsstrafgesetz 1991 und Verwaltungsvollstreckungsgesetz 1991",46 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00046/index.shtml,XXIII,XXIII_46dB
+19.12.2007,A,"Errichtung eines Rates fÃ¼r Fragen der Ã¶sterreichischen Integrations- und AuÃŸenpolitik und eines Nationalen Sicherheitsrates, Ã„nderung",482/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00482/index.shtml,XXIII,XXIII_482A
+18.12.2007,A,"Konsumentenschutzgesetz, Ã„nderung",498/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00498/index.shtml,XXIII,XXIII_498A
+18.12.2007,A,"Allgemeines bÃ¼rgerliches Gesetzbuch, Ã„nderung",472/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00472/index.shtml,XXIII,XXIII_472A
+06.12.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",536/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00536/index.shtml,XXIII,XXIII_536A
+06.12.2007,A,"Strafgesetzbuch (StGB), Ã„nderung",534/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00534/index.shtml,XXIII,XXIII_534A
+06.12.2007,A,"AuÃŸerstreitgesetz, Ã„nderung",530/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00530/index.shtml,XXIII,XXIII_530A
+06.12.2007,A,Bundes-Umwelthaftungsgesetz (B-UHG),520/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00520/index.shtml,XXIII,XXIII_520A
+06.12.2007,A,"StraÃŸenverkehrsordnung, Ã„nderung",515/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00515/index.shtml,XXIII,XXIII_515A
+06.12.2007,A,Bundesverfassungsgesetz Ã¼ber die Offenlegung von Einkommen und VermÃ¶gen im Ã¶ffentlichen Bereich,493/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00493/index.shtml,XXIII,XXIII_493A
+06.12.2007,A,Heizkostenausgleichsfondsgesetz,435/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00435/index.shtml,XXIII,XXIII_435A
+05.12.2007,RV,"GlÃ¼cksspielgesetz, Ã„nderung (GSpG-Novelle 2007)",318 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00318/index.shtml,XXIII,XXIII_318dB
+05.12.2007,RV,StrafrechtsÃ¤nderungsgesetz,285 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00285/index.shtml,XXIII,XXIII_285dB
+05.12.2007,A,bedingte Entlassung aus dem Strafvollzug im Strafgesetzbuch,141/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00141/index.shtml,XXIII,XXIII_141A
+04.12.2007,A,"Strafgesetzbuch, Ã„nderung (zurÃ¼ckgezogen)",414/A und Zu 414/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00414/index.shtml,XXIII,XXIII_414AundZu414A
+04.12.2007,A,"Kriegsopferversorgungsgesetz, OpferfÃ¼rsorgegesetz u.a., Ã„nderung",29/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00029/index.shtml,XXIII,XXIII_29A
+29.11.2007,A,"Einkommensteuergesetz 1988, Ã„nderung",439/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00439/index.shtml,XXIII,XXIII_439A
+29.11.2007,A,"Einkommensteuergesetz 1988, Ã„nderung",438/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00438/index.shtml,XXIII,XXIII_438A
+29.11.2007,A,"Einkommensteuergesetz 1988, Ã„nderung",436/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00436/index.shtml,XXIII,XXIII_436A
+28.11.2007,A,"WohnungsgemeinnÃ¼tzigkeitsgesetz, Ã„nderung",399/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00399/index.shtml,XXIII,XXIII_399A
+28.11.2007,A,"PrÃ¼fungskompetenzen des Rechnungshofes, Ã„nderung",398/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00398/index.shtml,XXIII,XXIII_398A
+28.11.2007,A,"PrÃ¼fungskompetenzen des Rechnungshofes, Ã„nderung",397/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00397/index.shtml,XXIII,XXIII_397A
+28.11.2007,A,"WohnungsgemeinnÃ¼tzigkeitsgesetz, Ã„nderung",391/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00391/index.shtml,XXIII,XXIII_391A
+27.11.2007,A,"Arbeitslosenversicherungsgesetz, Ã„nderung",460/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00460/index.shtml,XXIII,XXIII_460A
+27.11.2007,A,"Bundespflegegeldgesetz, Ã„nderung",327/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00327/index.shtml,XXIII,XXIII_327A
+27.11.2007,A,"Arbeitslosenversicherungsgesetz, Ã„nderung",138/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00138/index.shtml,XXIII,XXIII_138A
+22.11.2007,RV,"UniversitÃ¤tsgesetz, Ã„nderung",241 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00241/index.shtml,XXIII,XXIII_241dB
+22.11.2007,RV,Strafprozessreformbegleitgesetz I,231 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00231/index.shtml,XXIII,XXIII_231dB
+22.11.2007,RV,"Familienlastenausgleichsgesetz, Ã„nderung",228 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00228/index.shtml,XXIII,XXIII_228dB
+22.11.2007,RV,"Errichtung der Gesellschaft ""Familie & Beruf Management GmbH"", Ã„nderung",227 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00227/index.shtml,XXIII,XXIII_227dB
+22.11.2007,RV,Bundesstatistikgesetz 2000,202 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00202/index.shtml,XXIII,XXIII_202dB
+22.11.2007,RV,Fonds zur FÃ¶rderung der Errichtung einer FakultÃ¤t fÃ¼r Bauingenieurwesen und Architektur an der UniversitÃ¤t Innsbruck,79 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00079/index.shtml,XXIII,XXIII_79dB
+22.11.2007,A,"Strafgesetzbuch, Ã„nderung",413/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00413/index.shtml,XXIII,XXIII_413A
+22.11.2007,A,"Fachhochschul-Studiengesetz, Ã„nderung",408/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00408/index.shtml,XXIII,XXIII_408A
+22.11.2007,A,"Strafgesetzbuch, Ã„nderung",291/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00291/index.shtml,XXIII,XXIII_291A
+21.11.2007,A,"FÃ¼hrerscheingesetz, Ã„nderung",57/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00057/index.shtml,XXIII,XXIII_57A
+08.11.2007,A,"Pflege-Ãœbergangsgesetz, Ã„nderung",449/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00449/index.shtml,XXIII,XXIII_449A
+08.11.2007,A,"Sozialversicherungs-Ã„nderungsgesetz 2007 - SVÃ„G 2007, Ã„nderung",447/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00447/index.shtml,XXIII,XXIII_447A
+08.11.2007,A,"Rechnungshofgesetz, Ã„nderung",390/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00390/index.shtml,XXIII,XXIII_390A
+08.11.2007,A,"Erweiterung der PrÃ¼fungskompetenzen des Rechnungshofes, Ã„nderung",389/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00389/index.shtml,XXIII,XXIII_389A
+31.10.2007,BRA,Bundesrechnungsabschluss fÃ¼r das Jahr 2006,III-87 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00087/index.shtml,XXIII,XXIII_III87dB
+31.10.2007,RV,"Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Ã„nderung",229 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00229/index.shtml,XXIII,XXIII_229dB
+31.10.2007,RV,"BundesstraÃŸen-Mautgesetz 2002, ASFINAG-Gesetz, Ã„nderung",217 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00217/index.shtml,XXIII,XXIII_217dB
+31.10.2007,RV,"Patentgesetz 1970, Gebrauchsmustergesetz, PatentvertrÃ¤ge-EinfÃ¼hrungsgesetz, Schutzzertifikatsgesetz 1996, Markenschutzgesetz 1970 und PatentamtsgebÃ¼hrengesetz",216 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00216/index.shtml,XXIII,XXIII_216dB
+31.10.2007,RV,"AuslÃ¤nderbeschÃ¤ftigungsgesetz, Arbeitsvertragsrechts-Anpassungsgesetz, Ã„nderung",215 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00215/index.shtml,XXIII,XXIII_215dB
+31.10.2007,RV,"Arbeitsverfassungsgesetz, Post-Betriebsverfassung u.a., Ã„nderung",214 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00214/index.shtml,XXIII,XXIII_214dB
+31.10.2007,RV,Ã„nderung des Kesselgesetzes,148 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00148/index.shtml,XXIII,XXIII_148dB
+31.10.2007,RV,Bundesgesetz gegen den unlauteren Wettbewerb 1984 (UWG-Novelle 2007),144 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00144/index.shtml,XXIII,XXIII_144dB
+31.10.2007,A,"Seilbahngesetz, Ã„nderung",275/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00275/index.shtml,XXIII,XXIII_275A
+18.10.2007,A,"Meldegesetz 1991, Ã„nderung",427/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00427/index.shtml,XXIII,XXIII_427A
+18.10.2007,A,"StraÃŸenverkehrsordnung, Ã„nderung",426/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00426/index.shtml,XXIII,XXIII_426A
+18.10.2007,A,"AMA-Gesetz, Ã„nderung",335/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00335/index.shtml,XXIII,XXIII_335A
+17.10.2007,A,"Kinderbetreuungsgeldgesetz, Ã„nderung",33/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00033/index.shtml,XXIII,XXIII_33A
+11.10.2007,BRA,Bundesrechnungsabschluss fÃ¼r das Jahr 2005,III-1 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/III/III_00001/index.shtml,XXIII,XXIII_III1dB
+11.10.2007,RV,Schuldenberatungs-Novelle - Schu-Nov,172 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00172/index.shtml,XXIII,XXIII_172dB
+11.10.2007,RV,Gesellschaftsrechts-Ã„nderungsgesetz 2007 â€“ GesRÃ„G 2007,171 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00171/index.shtml,XXIII,XXIII_171dB
+11.10.2007,RV,Bundesgesetz Ã¼ber die Abgeltung von bestimmten Unterrichts- und ErziehungstÃ¤tigkeiten an Schulen sowie das Bundesgesetz Ã¼ber das Unterrichtspraktikum,137 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00137/index.shtml,XXIII,XXIII_137dB
+11.10.2007,A,"Einkommensteuergesetz, Ã„nderung",385/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00385/index.shtml,XXIII,XXIII_385A
+11.10.2007,A,"Immissionsschutzgesetz-Luft, Ã„nderung",276/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00276/index.shtml,XXIII,XXIII_276A
+11.10.2007,A,"Einkommensteuergesetz, Ã„nderung",183/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00183/index.shtml,XXIII,XXIII_183A
+10.10.2007,A,"Rechnungshofgesetz, Ã„nderung (zurÃ¼ckgezogen)",392/A und Zu 392/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00392/index.shtml,XXIII,XXIII_392AundZu392A
+10.10.2007,A,"BundesstraÃŸen-Mautgesetz, Ã„nderung",184/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00184/index.shtml,XXIII,XXIII_184A
+10.10.2007,A,"BundesstraÃŸen-Mautgesetz, Ã„nderung",64/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00064/index.shtml,XXIII,XXIII_64A
+27.09.2007,A,"Einkommensteuergesetz 1988, Ã„nderung",386/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00386/index.shtml,XXIII,XXIII_386A
+27.09.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",380/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00380/index.shtml,XXIII,XXIII_380A
+27.09.2007,A,"Gehaltsgesetz 1956, Ã„nderung",333/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00333/index.shtml,XXIII,XXIII_333A
+27.09.2007,A,"Wahl des Nationalrates, Ã„nderung",331/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00331/index.shtml,XXIII,XXIII_331A
+27.09.2007,A,"Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Ã„nderung",312/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00312/index.shtml,XXIII,XXIII_312A
+27.09.2007,A,"Kinderbetreuungsgeldgesetz, Karenzgeldgesetz u.a., Ã„nderung",310/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00310/index.shtml,XXIII,XXIII_310A
+27.09.2007,A,"Einkommensteuergesetz 1988, Ã„nderung",264/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00264/index.shtml,XXIII,XXIII_264A
+27.09.2007,A,"Immissionsschutzgesetz-Luft, Ã„nderung (IG-L-Novelle 2006)",7/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00007/index.shtml,XXIII,XXIII_7A
+20.07.2007,RV,Wertpapieraufsichtsgesetz 2007 - WAG 2007,143 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00143/index.shtml,XXIII,XXIII_143dB
+20.07.2007,RV,"Tiertransportgesetz - Erlassung; Tierschutzgesetz, Tierseuchengesetz, Ã„nderung",142 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00142/index.shtml,XXIII,XXIII_142dB
+20.07.2007,RV,"Arbeitszeitgesetz, Arbeitsruhegesetz u.a., Ã„nderung",141 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00141/index.shtml,XXIII,XXIII_141dB
+20.07.2007,RV,Ã–ffnungszeitengesetz 2003,140 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00140/index.shtml,XXIII,XXIII_140dB
+20.07.2007,RV,"Privatfernsehgesetz, ORF-Gesetz u.a., Ã„nderung",139 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00139/index.shtml,XXIII,XXIII_139dB
+20.07.2007,RV,"GefahrgutbefÃ¶rderungsgesetz, Ã„nderung (GGBG-Novelle 2007)",138 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00138/index.shtml,XXIII,XXIII_138dB
+20.07.2007,RV,"Kraftfahrgesetz 1967, Ã„nderung (28. KFG-Novelle)",136 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00136/index.shtml,XXIII,XXIII_136dB
+20.07.2007,RV,VAG-Novelle 2007,128 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00128/index.shtml,XXIII,XXIII_128dB
+20.07.2007,RV,Bundesvergabegesetz 2006,127 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00127/index.shtml,XXIII,XXIII_127dB
+20.07.2007,RV,Kraftfahrzeugsteuergesetz-Novelle 2007,96 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00096/index.shtml,XXIII,XXIII_96dB
+20.07.2007,RV,Marktordnungsgesetz 2007 - MOG 2007 und AgrarrechtsÃ¤nderungsgesetz 2007,37 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00037/index.shtml,XXIII,XXIII_37dB
+20.07.2007,A,Dienstrechts-Novelle 2007,255/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00255/index.shtml,XXIII,XXIII_255A
+20.07.2007,A,"Bundespflegegeldgesetz, Bundesfinanzgesetz u.a., Ã„nderung",253/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00253/index.shtml,XXIII,XXIII_253A
+20.07.2007,A,"AusfuhrfinanzierungsfÃ¶rderungsgesetz, Ã„nderung",252/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00252/index.shtml,XXIII,XXIII_252A
+20.07.2007,A,"Pflege-Ãœbergangsgesetz, Ã„nderung",228/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00228/index.shtml,XXIII,XXIII_228A
+05.07.2007,A,"Tierschutzgesetz, Ã„nderung",134/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00134/index.shtml,XXIII,XXIII_134A
+04.07.2007,A,"Bundespflegegeldgesetz, Ã„nderung",246/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00246/index.shtml,XXIII,XXIII_246A
+21.06.2007,BUA,Anti-Doping-Bundesgesetz 2007,105 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00105/index.shtml,XXIII,XXIII_105dB
+21.06.2007,RV,Bundes-Verfassungsgesetz,94 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00094/index.shtml,XXIII,XXIII_94dB
+21.06.2007,RV,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung (SVÃ„G 2007)",93 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00093/index.shtml,XXIII,XXIII_93dB
+21.06.2007,RV,Forschungs- und WirtschaftsfÃ¶rderungsrechtsnovelle 2007,92 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00092/index.shtml,XXIII,XXIII_92dB
+21.06.2007,RV,Bauarbeitenkoordinationsgesetz,91 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00091/index.shtml,XXIII,XXIII_91dB
+21.06.2007,RV,Errichtung des Klima- und Energiefonds - Klima- und Energiefondsgesetz (KLI.EN-FondsG),90 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00090/index.shtml,XXIII,XXIII_90dB
+21.06.2007,RV,Abfallwirtschaftsgesetz 2002 (AWG-Novelle 2007),89 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00089/index.shtml,XXIII,XXIII_89dB
+21.06.2007,RV,WahlrechtsÃ¤nderungsgesetz 2007,88 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00088/index.shtml,XXIII,XXIII_88dB
+21.06.2007,RV,Jugendwohlfahrtsgesetz-Novelle 2007,87 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00087/index.shtml,XXIII,XXIII_87dB
+21.06.2007,RV,"Bundespflegegeldgesetz, Ã„nderung",82 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00082/index.shtml,XXIII,XXIII_82dB
+21.06.2007,RV,Finanzstrafgesetz-Novelle 2007 (FinStrG-Novelle 2007),81 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00081/index.shtml,XXIII,XXIII_81dB
+21.06.2007,RV,Verkehrsopfer-EntschÃ¤digungsgesetz; Kraftfahrrechts-Ã„nderungsgesetz 2007 - KrÃ„G 2007,80 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00080/index.shtml,XXIII,XXIII_80dB
+21.06.2007,RV,(Hausbetreuungsgesetz - HBeG) Gewerbeordnung 1994,78 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00078/index.shtml,XXIII,XXIII_78dB
+21.06.2007,RV,Sozialrechts-Ã„nderungsgesetz 2007 - SRÃ„G 2007,77 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00077/index.shtml,XXIII,XXIII_77dB
+21.06.2007,RV,HochschÃ¼lerinnen- und HochschÃ¼lerschaftsgesetz 1998,76 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00076/index.shtml,XXIII,XXIII_76dB
+21.06.2007,RV,StudienfÃ¶rderungsgesetz 1992,75 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00075/index.shtml,XXIII,XXIII_75dB
+21.06.2007,RV,Leistung eines Ã¶sterreichischen Beitrages zur vierten WiederauffÃ¼llung des Globalen UmweltfazilitÃ¤t-Treuhandfonds,72 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00072/index.shtml,XXIII,XXIII_72dB
+21.06.2007,RV,Ã„nderung des Bundes-SportfÃ¶rderungsgesetzes 2005,66 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00066/index.shtml,XXIII,XXIII_66dB
+21.06.2007,RV,"Bauarbeiter-Urlaubs- und Abfertigungsgesetz, Bauarbeiter-SchlechtwetterentschÃ¤digungsgesetz 1957, Ã„nderung",52 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00052/index.shtml,XXIII,XXIII_52dB
+21.06.2007,RV,Bundesgesetz Ã¼ber die justizielle Zusammenarbeit in Strafsachen mit den Mitgliedstaaten der EuropÃ¤ischen Union (EU-JZG),48 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00048/index.shtml,XXIII,XXIII_48dB
+21.06.2007,RV,Vermarktungsnormengesetz - VNG,38 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00038/index.shtml,XXIII,XXIII_38dB
+21.06.2007,A,Reisekosten-Novelle 2007 â€“ RK-Novelle 2007,220/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00220/index.shtml,XXIII,XXIII_220A
+06.06.2007,RV,Bundes-Umwelthaftungsgesetz - B-UHG,95 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00095/index.shtml,XXIII,XXIII_95dB
+06.06.2007,A,"Allgemeines Sozialversicherungsgesetz, Gewerbliches Sozialversicherungsgesetz u.a., Ã„nderung",241/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00241/index.shtml,XXIII,XXIII_241A
+06.06.2007,A,"monatliche UnterstÃ¼tzung fÃ¼r Frauen, die das 60. Lebensjahr vollendet haben, als Anerkennung fÃ¼r die Erziehung ihrer Kinder",31/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00031/index.shtml,XXIII,XXIII_31A
+05.06.2007,A,"Bundes-Verfassungsgesetz, Nationalrats-Wahlordnung u.a., Ã„nderung",212/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00212/index.shtml,XXIII,XXIII_212A
+05.06.2007,A,"Nationalrats-Wahlordnung, Ã„nderung",21/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00021/index.shtml,XXIII,XXIII_21A
+05.06.2007,A,"WÃ¤hlerevidenzgesetz, Bundes-Verfassungsgesetz u.a., Ã„nderung",8/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00008/index.shtml,XXIII,XXIII_8A
+30.05.2007,A,"Allgemeines bÃ¼rgerliches Gesetzbuch, Ã„nderung",46/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00046/index.shtml,XXIII,XXIII_46A
+24.05.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",221/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00221/index.shtml,XXIII,XXIII_221A
+24.05.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",204/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00204/index.shtml,XXIII,XXIII_204A
+24.05.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",203/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00203/index.shtml,XXIII,XXIII_203A
+24.05.2007,A,"Umsatzsteuergesetz, Ã„nderung",99/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00099/index.shtml,XXIII,XXIII_99A
+22.05.2007,A,"Familienlastenausgleichsgesetz, Ã„nderung",61/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00061/index.shtml,XXIII,XXIII_61A
+10.05.2007,BUA,"Gesundheits- und ErnÃ¤hrungssicherheitsgesetz, Ã„nderung",68 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00068/index.shtml,XXIII,XXIII_68dB
+10.05.2007,RV,Budgetbegleitgesetz 2007,43 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00043/index.shtml,XXIII,XXIII_43dB
+10.05.2007,RV,Bundesfinanzgesetz 2008 samt Anlagen,40 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00040/index.shtml,XXIII,XXIII_40dB
+10.05.2007,RV,Bundesfinanzgesetz 2007 samt Anlagen,39 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00039/index.shtml,XXIII,XXIII_39dB
+25.04.2007,A,Ã¼ber das Verbot von Streumunition und Streubomben,192/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00192/index.shtml,XXIII,XXIII_192A
+24.04.2007,A,"Einkommensteuergesetz, Ã„nderung",173/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00173/index.shtml,XXIII,XXIII_173A
+24.04.2007,A,"Amnestie-, Rehabilitierungs- und EntschÃ¤digungsgesetz - (AREG)",151/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00151/index.shtml,XXIII,XXIII_151A
+13.04.2007,BUA,"Konkursordnung, Ausgleichsordnung, Ã„nderung",56 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00056/index.shtml,XXIII,XXIII_56dB
+13.04.2007,A,"Abfallwirtschaftsgesetz, Ã„nderung",161/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00161/index.shtml,XXIII,XXIII_161A
+13.04.2007,A,"EntschÃ¤digungsfondsgesetz, Ã„nderung",117/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00117/index.shtml,XXIII,XXIII_117A
+13.04.2007,A,"BÃ¶rsegesetz, Bankwesengesetz, Ã„nderung",82/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00082/index.shtml,XXIII,XXIII_82A
+13.04.2007,A,Sonderrechnungslegungsgesetz - SRLG,81/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00081/index.shtml,XXIII,XXIII_81A
+13.04.2007,A,Produktpirateriegesetz 2004 (i.d.F. BGBl. I Nr. 56/2004),37/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00037/index.shtml,XXIII,XXIII_37A
+29.03.2007,A,"Erbschafts- und Schenkungssteuergesetz, Aufhebung",34/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00034/index.shtml,XXIII,XXIII_34A
+22.03.2007,RV,"Katastrophenfondsgesetz 1996, HochwasseropferentschÃ¤digungs- und Wiederaufbau-Gesetz 2005",25 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00025/index.shtml,XXIII,XXIII_25dB
+22.03.2007,RV,Gesetzliches Budgetprovisorium 2007,24 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00024/index.shtml,XXIII,XXIII_24dB
+22.03.2007,RV,KonsulargebÃ¼hrengesetz 1992; Ã„nderung,11 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00011/index.shtml,XXIII,XXIII_11dB
+22.03.2007,A,"Ã–kostromgesetz, Ã„nderung",114/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00114/index.shtml,XXIII,XXIII_114A
+22.03.2007,A,"HochschÃ¼lerinnen- und HochschÃ¼lerschaftsgesetz, Ã„nderung",97/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00097/index.shtml,XXIII,XXIII_97A
+07.03.2007,A,"Pflanzenschutzmittelgesetz, Ã„nderung",77/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00077/index.shtml,XXIII,XXIII_77A
+16.02.2007,A,"Bundesministeriengesetz, Ã„nderung (Bundesministeriengesetz-Novelle 2007)",95/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00095/index.shtml,XXIII,XXIII_95A
+16.02.2007,A,"Bundes-Verfassungsgesetz, Ã„nderung",94/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00094/index.shtml,XXIII,XXIII_94A
+30.01.2007,A,"Bundes-Behindertengleichstellungsgesetz, Behinderteneinstellungsgesetz u.a., Ã„nderung",58/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00058/index.shtml,XXIII,XXIII_58A
+30.01.2007,A,"Landwirtschaftsgesetz, Ã„nderung",22/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00022/index.shtml,XXIII,XXIII_22A
+20.12.2006,RV,Sozialrechts-Ã„nderungsgesetz 2007 â€“ SRÃ„G 2007,12 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00012/index.shtml,XXIII,XXIII_12dB
+20.12.2006,A,"Bundesfinanzgesetz, Ã„nderung (7. BFG-Novelle 2006)",80/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00080/index.shtml,XXIII,XXIII_80A
+20.12.2006,A,"Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Ã„nderung",62/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00062/index.shtml,XXIII,XXIII_62A
+20.12.2006,A,3. Novelle zum APG,28/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00028/index.shtml,XXIII,XXIII_28A
+20.12.2006,A,"Emissionszertifikategesetz, Ã„nderung",18/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00018/index.shtml,XXIII,XXIII_18A
+15.12.2006,A,"Familienlastenausgleichsgesetz, Kinderbetreuungsgeldgesetz, Ã„nderung",65/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00065/index.shtml,XXIII,XXIII_65A
+15.12.2006,A,Heizkostenausgleichsfondsgesetz,35/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00035/index.shtml,XXIII,XXIII_35A
+15.12.2006,A,"Bundespflegegeldgesetz, Ã„nderung",30/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00030/index.shtml,XXIII,XXIII_30A
+14.12.2006,A,"Fernsprechentgeltzuschussgesetz, Ã„nderung",66/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00066/index.shtml,XXIII,XXIII_66A
+14.12.2006,A,Nationalrats-Wahlordnung 1992 - NRWO,45/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00045/index.shtml,XXIII,XXIII_45A
+14.12.2006,A,"Bundes-Verfassungsgesetz, GeschÃ¤ftsordnungsgesetz, Ã„nderung",9/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00009/index.shtml,XXIII,XXIII_9A
+13.12.2006,RV,Besoldungs-Novelle 2007,1 d.B.,https://www.parlament.gv.at/PAKT/VHG/XXIII/I/I_00001/index.shtml,XXIII,XXIII_1dB
+13.12.2006,A,2. Sozialrechts-Ã„nderungsgesetz 2006 - 2. SRÃ„G 2006,27/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00027/index.shtml,XXIII,XXIII_27A
+13.12.2006,A,Pflege-Ãœbergangsgesetz,25/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00025/index.shtml,XXIII,XXIII_25A
+13.12.2006,A,Olympia 2014-ErmÃ¤chtigungsgesetz,16/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00016/index.shtml,XXIII,XXIII_16A
+28.11.2006,A,"Allgemeines Sozialversicherungsgesetz, Ã„nderung",20/A,https://www.parlament.gv.at/PAKT/VHG/XXIII/A/A_00020/index.shtml,XXIII,XXIII_20A
